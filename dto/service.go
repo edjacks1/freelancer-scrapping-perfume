@@ -9,4 +9,6 @@ type Service interface {
 	InitContext() (context.Context, []context.CancelFunc)
 	CancelContexts(cancelFns []context.CancelFunc)
 	ShowTotalProducts()
+
+	RemoveDuplicates(strings []string) []string
 }

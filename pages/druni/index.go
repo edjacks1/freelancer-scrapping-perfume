@@ -32,7 +32,10 @@ func (p Page) GetList(url string) {
 	// Terminar funciones
 	defer p.svc.CancelContexts(cancelFns)
 	// Obtener urs
-	var links []string
+	var links []struct {
+		Link       string `json:"link"`
+		IsDisabled bool   `json:"isDisabled"`
+	}
 	//
 	err := chromedp.Run(ctx,
 		// Navegar a la página
@@ -40,8 +43,15 @@ func (p Page) GetList(url string) {
 		// Extraer el detalle del producto
 		chromedp.WaitVisible(`.products.list .product-item-photo`, chromedp.ByQuery),
 		chromedp.Evaluate(`(() => {
-			const images = Array.from(document.querySelectorAll('.products.list .product-item-photo'));
-			return images.map(a => a.href);
+			return Array.from(document.querySelectorAll('.products-grid .products.list .product-item')).map( el => {
+				let link = el.querySelector(".product-item-photo");
+				let isDisabled = el.querySelector("form > div:nth-child(2) div a") != null;
+				// Mostrar data
+				return {
+					link       : link.href, 
+					isDisabled : isDisabled
+				}
+			})
 		})()`, &links),
 	)
 	//Verificar si existe un error
@@ -50,11 +60,11 @@ func (p Page) GetList(url string) {
 	}
 	// Imprimir links
 	for _, link := range links {
-		p.GetProductDetail(link)
+		p.GetProductDetail(link.Link, !link.IsDisabled)
 	}
 }
 
-func (p Page) GetProductDetail(url string) {
+func (p Page) GetProductDetail(url string, isActive bool) {
 	ctx, cancelFns := p.svc.InitContext()
 	// Terminar funciones
 	defer p.svc.CancelContexts(cancelFns)
@@ -62,6 +72,8 @@ func (p Page) GetProductDetail(url string) {
 	var variant dao.ProductVariant
 	var product dao.Product
 	var productJSON string
+	// Verificar si esta activo
+	product.IsActive = isActive
 	// Ejecutar todas las tareas de chromedp en una sola llamada
 	err := chromedp.Run(ctx,
 		// Navegar a la página
@@ -89,6 +101,8 @@ func (p Page) GetProductDetail(url string) {
 	if err := json.Unmarshal([]byte(productJSON), &product); err != nil {
 		fmt.Println("Error al decodificar JSON: %v", err)
 	}
+	// Quitar duplicados
+	variant.Photos = p.svc.RemoveDuplicates(variant.Photos)
 	// Limpiar variante
 	variant.Quantity, variant.Type = p.GetVariantQuantityType(variant.Quantity)
 	// Asignar variante

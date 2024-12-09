@@ -13,6 +13,7 @@ type Product struct {
 	Brand    string           `json:"brand"`
 	Detail   string           `json:"detail"`
 	Category string           `json:"category"`
+	IsActive bool             `json:"is_active"`
 	Variants []ProductVariant `json:"variants"`
 }
 
