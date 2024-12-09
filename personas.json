@@ -1,13 +1,117 @@
 [
   {
-    "name": "AQC FRAGANCES",
+    "id": "1444732",
+    "name": "Lady Secret",
+    "brand": "AQC FRAGANCES",
     "detail": "Lady Secret EDT, la elegancia de un perfume sensual con un divertido envase en forma de tacón.",
-    "category": "Lady Secret",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
     "variants": [
       {
-        "type": "",
+        "type": "ML",
         "price": "2.99",
-        "quantity": "",
+        "quantity": "30",
+        "photons": [
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1446840",
+    "name": "Estuche Martinelia",
+    "brand": "AQC FRAGANCES",
+    "detail": "¡El pack de productos ideal para los animal lovers! El jabón de manos y la colonia corporal de My Best Friends tienen un aroma delicioso ¿Quién puede resistirse?",
+    "category": "Marcas/AQC FRAGANCES",
+    "variants": [
+      {
+        "type": "UNIT",
+        "price": "6.99",
+        "quantity": "1",
+        "photons": [
+          "https://www.druni.es/media/catalog/product/1/4/1446840.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_2.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_3.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_2.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_3.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_2.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_3.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1446837",
+    "name": "Oh Savage Pocket",
+    "brand": "AQC FRAGANCES",
+    "detail": "Atrevida como tú, su embriagador perfume a azucena, sándalo y miel te encantará. Gracias a su formato, es ideal para llevarla siempre contigo.",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "type": "ML",
+        "price": "1.99",
+        "quantity": "20",
+        "photons": [
+          "https://www.druni.es/media/catalog/product/1/4/1446837.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446837.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446837.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1446836",
+    "name": "Oh Paradise Pocket",
+    "brand": "AQC FRAGANCES",
+    "detail": "Una fragancia fresca y sensual con notas de vainilla y flores silvestres. Gracias a su formato, es ideal para llevarla siempre contigo.",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "type": "ML",
+        "price": "1.99",
+        "quantity": "20",
+        "photons": [
+          "https://www.druni.es/media/catalog/product/1/4/1446836.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446836.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446836.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1444726",
+    "name": "Go Love",
+    "brand": "AQC FRAGANCES",
+    "detail": "Perfume fresco, con matices seductores.",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "type": "ML",
+        "price": "1.99",
+        "quantity": "30",
+        "photons": [
+          "https://www.druni.es/media/catalog/product/1/4/1444726.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444726.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444726.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1444732",
+    "name": "Lady Secret",
+    "brand": "AQC FRAGANCES",
+    "detail": "Lady Secret EDT, la elegancia de un perfume sensual con un divertido envase en forma de tacón.",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "type": "ML",
+        "price": "2.99",
+        "quantity": "30",
         "photons": [
           "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
           "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",

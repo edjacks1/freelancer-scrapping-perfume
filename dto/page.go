@@ -1,5 +1,6 @@
 package dto
 
 type Page interface {
-	GetProductDetail()
+	GetList(url string)
+	GetProductDetail(url string)
 }

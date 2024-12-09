@@ -8,7 +8,9 @@ const (
 )
 
 type Product struct {
+	ID       string           `json:"id"`
 	Name     string           `json:"name"`
+	Brand    string           `json:"brand"`
 	Detail   string           `json:"detail"`
 	Category string           `json:"category"`
 	Variants []ProductVariant `json:"variants"`
