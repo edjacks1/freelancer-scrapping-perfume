@@ -17,6 +17,36 @@ func InitPage(svc *service.Service) Page {
 	return Page{svc}
 }
 
+func (p Page) GetList(url string) {
+	ctx, cancelFns := p.svc.InitContext()
+	// Terminar funciones
+	defer p.svc.CancelContexts(cancelFns)
+	// Obtener urs
+	var links []string
+	//
+	err := chromedp.Run(ctx,
+		// Navegar a la página
+		chromedp.Navigate(url),
+		// Extraer el detalle del producto
+		chromedp.WaitVisible(`.items_slider .slider .product_item .image_container a`, chromedp.ByQuery),
+		chromedp.Evaluate(`(() => {
+			return Array.from(document.querySelectorAll('.items_slider .slider .product_item .image_container')).map( el => {
+				let link = el.querySelector("a");
+				// Mostrar data
+				return link.href;
+			})
+		})()`, &links),
+	)
+	//Verificar si existe un error
+	if err != nil {
+		fmt.Println(err)
+	}
+	// Imprimir links
+	for _, link := range links {
+		p.GetProductDetail(link)
+	}
+}
+
 func (p Page) GetProductDetail(url string) {
 	status := ""
 	ctx, cancelFns := p.svc.InitContext()
@@ -34,8 +64,6 @@ func (p Page) GetProductDetail(url string) {
 		chromedp.Text(`.ctd_attribute_data .ctd_product_name .ctd_pname`, &product.Name, chromedp.NodeVisible),
 		// Extraer cantidad
 		chromedp.Text(`.ctd_attribute_data .ctd_cname`, &variant.Quantity, chromedp.NodeVisible),
-		// Extraer precio real
-		chromedp.Text(`.ctd_price .wholesale_price`, &variant.Price, chromedp.NodeVisible),
 		// Extraer precio descuento
 		chromedp.Text(`.ctd_price .price`, &variant.DiscountPrice, chromedp.NodeVisible),
 		// Obtener la marca
@@ -54,8 +82,16 @@ func (p Page) GetProductDetail(url string) {
 	)
 	//Verificar si existe un error
 	if err != nil {
-		fmt.Println(err)
+		fmt.Printf("Ocurrio un error al tratar de consultar la siguiente url: %s\n", url)
+		fmt.Printf("El detalle del error es: %v\n\n", err)
 	}
+	// Consultar valores opcionales
+	chromedp.Run(ctx,
+		// Navegar a la página
+		chromedp.Navigate(url),
+		// Extraer precio real
+		chromedp.Text(`.ctd_price .wholesale_price`, &variant.Price, chromedp.NodeVisible),
+	)
 	// Quitar duplicados
 	variant.Photos = p.svc.RemoveDuplicates(variant.Photos)
 	// Verificar si esta activo

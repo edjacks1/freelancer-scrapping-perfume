@@ -16,7 +16,38 @@ func InitPage(svc *service.Service) Page {
 	return Page{svc}
 }
 
-func (p Page) GetProductDetail(url string, isActive bool) {
+func (p Page) GetList(url string) {
+	ctx, cancelFns := p.svc.InitContext()
+	// Terminar funciones
+	defer p.svc.CancelContexts(cancelFns)
+	// Obtener urs
+	var links []string
+	//
+	err := chromedp.Run(ctx,
+		// Navegar a la página
+		chromedp.Navigate(url),
+		// Extraer el detalle del producto
+		chromedp.WaitVisible(`#listadoProductos .productList a`, chromedp.ByQuery),
+		chromedp.Evaluate(`(() => {
+			return Array.from(document.querySelectorAll('#listadoProductos .productList')).map( el => {
+				let link = el.querySelector("a");
+				// Mostrar data
+				return link.href;
+			})
+		})()`, &links),
+	)
+	//Verificar si existe un error
+	if err != nil {
+		fmt.Println(err)
+	}
+	// Imprimir links
+	for _, link := range links {
+		p.GetProductDetail(link)
+		break
+	}
+}
+
+func (p Page) GetProductDetail(url string) {
 	ctx, cancelFns := p.svc.InitContext()
 	// Terminar funciones
 	defer p.svc.CancelContexts(cancelFns)
