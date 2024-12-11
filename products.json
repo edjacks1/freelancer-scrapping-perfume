@@ -1,0 +1,1295 @@
+[
+  {
+    "name": "Lady Secret",
+    "brand": "AQC FRAGANCES",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "id": "",
+        "type": "ML",
+        "price": "2.99",
+        "photos": [
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "Lady Secret EDT, la elegancia de un perfume sensual con un divertido envase en forma de tacón.",
+        "discount_price": "2.99"
+      }
+    ]
+  },
+  {
+    "name": "Estuche Martinelia",
+    "brand": "AQC FRAGANCES",
+    "category": "\u0026#127873; Regalos/\u0026#127794;  Regalos de Navidad/Regalos Amigo Invisible",
+    "variants": [
+      {
+        "id": "",
+        "type": "UNIT",
+        "price": "6.99",
+        "photos": [
+          "https://www.druni.es/media/catalog/product/1/4/1446840.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_2.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_3.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446840.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_2.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66",
+          "https://www.druni.es/media/catalog/product/1/4/1446840_3.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ],
+        "is_active": true,
+        "quantity": "1",
+        "description": "¡El pack de productos ideal para los animal lovers! El jabón de manos y la colonia corporal de My Best Friends tienen un aroma delicioso ¿Quién puede resistirse?",
+        "discount_price": "6.99"
+      }
+    ]
+  },
+  {
+    "name": "Oh Savage Pocket",
+    "brand": "AQC FRAGANCES",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "id": "",
+        "type": "ML",
+        "price": "1.99",
+        "photos": [
+          "https://www.druni.es/media/catalog/product/1/4/1446837.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446837.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ],
+        "is_active": true,
+        "quantity": "20",
+        "description": "Atrevida como tú, su embriagador perfume a azucena, sándalo y miel te encantará. Gracias a su formato, es ideal para llevarla siempre contigo.",
+        "discount_price": "1.99"
+      }
+    ]
+  },
+  {
+    "name": "Oh Paradise Pocket",
+    "brand": "AQC FRAGANCES",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "id": "",
+        "type": "ML",
+        "price": "1.99",
+        "photos": [
+          "https://www.druni.es/media/catalog/product/1/4/1446836.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1446836.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ],
+        "is_active": true,
+        "quantity": "20",
+        "description": "Una fragancia fresca y sensual con notas de vainilla y flores silvestres. Gracias a su formato, es ideal para llevarla siempre contigo.",
+        "discount_price": "1.99"
+      }
+    ]
+  },
+  {
+    "name": "Go Love",
+    "brand": "AQC FRAGANCES",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "id": "",
+        "type": "ML",
+        "price": "1.99",
+        "photos": [
+          "https://www.druni.es/media/catalog/product/1/4/1444726.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444726.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ],
+        "is_active": false,
+        "quantity": "30",
+        "description": "Perfume fresco, con matices seductores.",
+        "discount_price": "1.99"
+      }
+    ]
+  },
+  {
+    "name": "Lady Secret",
+    "brand": "AQC FRAGANCES",
+    "category": "Perfumes/Fragancias Low Cost/Fragancias Mujer",
+    "variants": [
+      {
+        "id": "",
+        "type": "ML",
+        "price": "2.99",
+        "photos": [
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=700\u0026width=700\u0026canvas=700:700",
+          "https://www.druni.es/media/catalog/product/1/4/1444732.jpg?quality=80\u0026fit=bounds\u0026height=66\u0026width=66\u0026canvas=66:66"
+        ],
+        "is_active": false,
+        "quantity": "30",
+        "description": "Lady Secret EDT, la elegancia de un perfume sensual con un divertido envase en forma de tacón.",
+        "discount_price": "2.99"
+      }
+    ]
+  },
+  {
+    "name": "4711",
+    "brand": "4711",
+    "category": "Eau de Cologne",
+    "variants": [
+      {
+        "id": "1509",
+        "type": "ML",
+        "price": "143",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1509.jpg",
+          "https://i1.perfumesclub.com/grande/1509-2.jpg",
+          "https://i1.perfumesclub.com/grande/1509-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "800",
+        "description": "4711 eau de cologne flacon 800 ml",
+        "discount_price": "34.94"
+      },
+      {
+        "id": "1510",
+        "type": "ML",
+        "price": "86.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1510.jpg",
+          "https://i1.perfumesclub.com/grande/1510-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "4711 eau de cologne flacon 400 ml",
+        "discount_price": "20.44"
+      },
+      {
+        "id": "1511",
+        "type": "ML",
+        "price": "71",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1511.jpg",
+          "https://i1.perfumesclub.com/grande/1511-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "4711 eau de cologne flacon 300 ml",
+        "discount_price": "19.95"
+      },
+      {
+        "id": "1512",
+        "type": "ML",
+        "price": "53",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1512.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "4711 eau de cologne flacon 200 ml",
+        "discount_price": "14.16"
+      },
+      {
+        "id": "1513",
+        "type": "ML",
+        "price": "41",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1513.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "4711 eau de cologne flacon 150 ml",
+        "discount_price": "25.19"
+      },
+      {
+        "id": "1514",
+        "type": "ML",
+        "price": "30",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1514.jpg",
+          "https://i1.perfumesclub.com/grande/1514-2.jpg",
+          "https://i1.perfumesclub.com/grande/1514-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "4711 eau de cologne flacon 100 ml",
+        "discount_price": "12.95"
+      }
+    ]
+  },
+  {
+    "name": "4711",
+    "brand": "4711",
+    "category": "Eau de Cologne",
+    "variants": [
+      {
+        "id": "1509",
+        "type": "ML",
+        "price": "143",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1509.jpg",
+          "https://i1.perfumesclub.com/grande/1509-2.jpg",
+          "https://i1.perfumesclub.com/grande/1509-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "800",
+        "description": "4711 eau de cologne flacon 800 ml",
+        "discount_price": "34.94"
+      },
+      {
+        "id": "1510",
+        "type": "ML",
+        "price": "86.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1510.jpg",
+          "https://i1.perfumesclub.com/grande/1510-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "4711 eau de cologne flacon 400 ml",
+        "discount_price": "20.44"
+      },
+      {
+        "id": "1511",
+        "type": "ML",
+        "price": "71",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1511.jpg",
+          "https://i1.perfumesclub.com/grande/1511-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "4711 eau de cologne flacon 300 ml",
+        "discount_price": "19.95"
+      },
+      {
+        "id": "1512",
+        "type": "ML",
+        "price": "53",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1512.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "4711 eau de cologne flacon 200 ml",
+        "discount_price": "14.16"
+      },
+      {
+        "id": "1513",
+        "type": "ML",
+        "price": "41",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1513.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "4711 eau de cologne flacon 150 ml",
+        "discount_price": "25.19"
+      },
+      {
+        "id": "1514",
+        "type": "ML",
+        "price": "30",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1514.jpg",
+          "https://i1.perfumesclub.com/grande/1514-2.jpg",
+          "https://i1.perfumesclub.com/grande/1514-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "4711 eau de cologne flacon 100 ml",
+        "discount_price": "12.95"
+      }
+    ]
+  },
+  {
+    "name": "BOSS BOTTLED ",
+    "brand": "Hugo Boss",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "11557",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11557.jpg",
+          "https://i1.perfumesclub.com/grande/11557-2.jpg",
+          "https://i1.perfumesclub.com/grande/11557-3.jpg",
+          "https://i1.perfumesclub.com/grande/11557-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "BOSS BOTTLED eau de toilette vaporizador 100 ml",
+        "discount_price": "54.95"
+      },
+      {
+        "id": "11558",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11558.jpg",
+          "https://i1.perfumesclub.com/grande/11558-2.jpg",
+          "https://i1.perfumesclub.com/grande/11558-3.jpg",
+          "https://i1.perfumesclub.com/grande/11558-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "BOSS BOTTLED eau de toilette vaporizador 50 ml",
+        "discount_price": "42.96"
+      },
+      {
+        "id": "11908",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11908.jpg",
+          "https://i1.perfumesclub.com/grande/11908-2.jpg",
+          "https://i1.perfumesclub.com/grande/11908-3.jpg",
+          "https://i1.perfumesclub.com/grande/11908-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "BOSS BOTTLED eau de toilette vaporizador 30 ml",
+        "discount_price": "36.03"
+      },
+      {
+        "id": "23339",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/23339.jpg",
+          "https://i1.perfumesclub.com/grande/23339-2.jpg",
+          "https://i1.perfumesclub.com/grande/23339-3.jpg",
+          "https://i1.perfumesclub.com/grande/23339-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "BOSS BOTTLED eau de toilette vaporizador 200 ml",
+        "discount_price": "74.95"
+      }
+    ]
+  },
+  {
+    "name": "BOSS BOTTLED ABSOLU ",
+    "brand": "Hugo Boss",
+    "category": "Eau de Parfum",
+    "variants": [
+      {
+        "id": "199652",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/199652.jpg",
+          "https://i1.perfumesclub.com/grande/199652-2.jpg",
+          "https://i1.perfumesclub.com/grande/199652-3.jpg",
+          "https://i1.perfumesclub.com/grande/199652-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "BOSS BOTTLED ABSOLU eau de parfum vaporizador 50 ml",
+        "discount_price": "52.71"
+      },
+      {
+        "id": "199653",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/199653.jpg",
+          "https://i1.perfumesclub.com/grande/199653-2.jpg",
+          "https://i1.perfumesclub.com/grande/199653-3.jpg",
+          "https://i1.perfumesclub.com/grande/199653-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "BOSS BOTTLED ABSOLU eau de parfum vaporizador 100 ml",
+        "discount_price": "74.68"
+      }
+    ]
+  },
+  {
+    "name": "BOSS BOTTLED after-shave lotion",
+    "brand": "Hugo Boss",
+    "category": "After-shave",
+    "variants": [
+      {
+        "id": "11559",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11559.jpg",
+          "https://i1.perfumesclub.com/grande/11559-2.jpg",
+          "https://i1.perfumesclub.com/grande/11559-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "BOSS BOTTLED after-shave 100 ml",
+        "discount_price": "44.27"
+      },
+      {
+        "id": "180058",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/180058.jpg",
+          "https://i1.perfumesclub.com/grande/180058-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "BOSS BOTTLED as 50 ml",
+        "discount_price": "32.26"
+      }
+    ]
+  },
+  {
+    "name": "BOSS BOTTLED deodorant spray",
+    "brand": "Hugo Boss",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "11563",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11563.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "BOSS BOTTLED desodorante vaporizador 150 ml",
+        "discount_price": "12.1"
+      }
+    ]
+  },
+  {
+    "name": "BOSS BOTTLED deodorant stick",
+    "brand": "Hugo Boss",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "11564",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11564.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "BOSS BOTTLED desodorante stick 75 gr",
+        "discount_price": "16.27"
+      }
+    ]
+  },
+  {
+    "name": "HUGO deodorant stick",
+    "brand": "Hugo Boss",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "1223",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/1223.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "HUGO desodorante stick 75 gr",
+        "discount_price": "12.7"
+      }
+    ]
+  },
+  {
+    "name": "HUGO ",
+    "brand": "Hugo Boss",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "153180",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/153180.jpg",
+          "https://i1.perfumesclub.com/grande/153180-2.jpg",
+          "https://i1.perfumesclub.com/grande/153180-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "HUGO eau de toilette vaporizador 200 ml",
+        "discount_price": "54.95"
+      },
+      {
+        "id": "156952",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/156952.jpg",
+          "https://i1.perfumesclub.com/grande/156952-2.jpg",
+          "https://i1.perfumesclub.com/grande/156952-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "40",
+        "description": "HUGO eau de toilette vaporizador 40 ml",
+        "discount_price": "35.09"
+      },
+      {
+        "id": "156953",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/156953.jpg",
+          "https://i1.perfumesclub.com/grande/156953-2.jpg",
+          "https://i1.perfumesclub.com/grande/156953-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "HUGO eau de toilette vaporizador 75 ml",
+        "discount_price": "34.8"
+      },
+      {
+        "id": "156954",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/156954.jpg",
+          "https://i1.perfumesclub.com/grande/156954-2.jpg",
+          "https://i1.perfumesclub.com/grande/156954-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "125",
+        "description": "HUGO eau de toilette vaporizador 125 ml",
+        "discount_price": "44.95"
+      }
+    ]
+  },
+  {
+    "name": "HUGO ESTUCHE",
+    "brand": "Hugo Boss",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "189684",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/189684.jpg"
+        ],
+        "is_active": true,
+        "quantity": "3",
+        "description": "HUGO ESTUCHE 3 pz",
+        "discount_price": "54.92"
+      },
+      {
+        "id": "199840",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/199840.jpg",
+          "https://i1.perfumesclub.com/grande/199840-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "3",
+        "description": "HUGO ESTUCHE 3 pz",
+        "discount_price": "56.26"
+      }
+    ]
+  },
+  {
+    "name": "HUGO deodorant spray",
+    "brand": "Hugo Boss",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "106914",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/106914.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "HUGO desodorante vaporizador 150 ml",
+        "discount_price": "12.7"
+      }
+    ]
+  },
+  {
+    "name": "CHLO\u0026#201; SIGNATURE ",
+    "brand": "Chlo\u0026#233;",
+    "category": "Recargables",
+    "variants": [
+      {
+        "id": "20966",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/20966.jpg",
+          "https://i1.perfumesclub.com/grande/20966-2.jpg",
+          "https://i1.perfumesclub.com/grande/20966-3.jpg",
+          "https://i1.perfumesclub.com/grande/20966-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "CHLO\u0026#201; SIGNATURE eau de parfum vaporizador 50 ml",
+        "discount_price": "59.96"
+      },
+      {
+        "id": "26596",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/26596.jpg",
+          "https://i1.perfumesclub.com/grande/26596-2.jpg",
+          "https://i1.perfumesclub.com/grande/26596-3.jpg",
+          "https://i1.perfumesclub.com/grande/26596-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "CHLO\u0026#201; SIGNATURE eau de parfum vaporizador 30 ml",
+        "discount_price": "36.31"
+      },
+      {
+        "id": "173177",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/173177.jpg",
+          "https://i1.perfumesclub.com/grande/173177-2.jpg",
+          "https://i1.perfumesclub.com/grande/173177-3.jpg",
+          "https://i1.perfumesclub.com/grande/173177-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "CHLO\u0026#201; SIGNATURE eau de parfum refillable 100 ml",
+        "discount_price": "74.95"
+      },
+      {
+        "id": "173178",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/173178.jpg",
+          "https://i1.perfumesclub.com/grande/173178-2.jpg",
+          "https://i1.perfumesclub.com/grande/173178-3.jpg",
+          "https://i1.perfumesclub.com/grande/173178-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "CHLO\u0026#201; SIGNATURE eau de parfum recharge 150 ml",
+        "discount_price": "69.95"
+      }
+    ]
+  },
+  {
+    "name": "BRISA CUBANA ",
+    "brand": "Escada",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "193952",
+        "type": "ML",
+        "price": "55",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/193952.jpg",
+          "https://i1.perfumesclub.com/grande/193952-2.jpg",
+          "https://i1.perfumesclub.com/grande/193952-3.jpg",
+          "https://i1.perfumesclub.com/grande/193952-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "BRISA CUBANA eau de toilette vaporizador ed. lim. 30 ml",
+        "discount_price": "33.57"
+      },
+      {
+        "id": "193953",
+        "type": "ML",
+        "price": "78",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/193953.jpg",
+          "https://i1.perfumesclub.com/grande/193953-2.jpg",
+          "https://i1.perfumesclub.com/grande/193953-3.jpg",
+          "https://i1.perfumesclub.com/grande/193953-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "BRISA CUBANA eau de toilette vaporizador ed. lim. 50 ml",
+        "discount_price": "37.51"
+      },
+      {
+        "id": "193954",
+        "type": "ML",
+        "price": "102",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/193954.jpg",
+          "https://i1.perfumesclub.com/grande/193954-2.jpg",
+          "https://i1.perfumesclub.com/grande/193954-3.jpg",
+          "https://i1.perfumesclub.com/grande/193954-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "BRISA CUBANA eau de toilette vaporizador ed. lim. 100 ml",
+        "discount_price": "44.99"
+      }
+    ]
+  },
+  {
+    "name": "MAGNETISM ",
+    "brand": "Escada",
+    "category": "Eau de Parfum",
+    "variants": [
+      {
+        "id": "15640",
+        "type": "ML",
+        "price": "48.25",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/15640.jpg"
+        ],
+        "is_active": true,
+        "quantity": "25",
+        "description": "MAGNETISM eau de parfum vaporizador 25 ml",
+        "discount_price": "29.95"
+      },
+      {
+        "id": "116530",
+        "type": "ML",
+        "price": "112",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/116530.jpg",
+          "https://i1.perfumesclub.com/grande/116530-2.jpg",
+          "https://i1.perfumesclub.com/grande/116530-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "MAGNETISM eau de parfum vaporizador 75 ml",
+        "discount_price": "39.94"
+      },
+      {
+        "id": "118662",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/118662.jpg",
+          "https://i1.perfumesclub.com/mklgrande/118662-2.jpg",
+          "https://i1.perfumesclub.com/mklgrande/118662-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "25",
+        "description": "MAGNETISM eau de parfum vaporizador 25 ml",
+        "discount_price": "30.58"
+      },
+      {
+        "id": "118663",
+        "type": "ML",
+        "price": "88",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/118663.jpg",
+          "https://i1.perfumesclub.com/grande/118663-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "MAGNETISM eau de parfum vaporizador 50 ml",
+        "discount_price": "36.54"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "brand": "",
+    "category": "",
+    "variants": null
+  },
+  {
+    "name": "VANDERBILT",
+    "brand": "Vanderbilt",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "4252",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/4252.jpg",
+          "https://i1.perfumesclub.com/mklgrande/4252-2.jpg",
+          "https://i1.perfumesclub.com/mklgrande/4252-3.jpg",
+          "https://i1.perfumesclub.com/mklgrande/4252-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "15",
+        "description": "VANDERBILT eau de toilette vaporizador 15 ml",
+        "discount_price": "9.99"
+      },
+      {
+        "id": "4254",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/4254.jpg",
+          "https://i1.perfumesclub.com/mklgrande/4254-2.jpg",
+          "https://i1.perfumesclub.com/mklgrande/4254-3.jpg",
+          "https://i1.perfumesclub.com/mklgrande/4254-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "VANDERBILT eau de toilette vaporizador 30 ml",
+        "discount_price": "32.42"
+      },
+      {
+        "id": "4257",
+        "type": "ML",
+        "price": "9.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/4257.jpg",
+          "https://i1.perfumesclub.com/grande/4257-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "VANDERBILT eau de toilette vaporizador 100 ml",
+        "discount_price": "8.11"
+      }
+    ]
+  },
+  {
+    "name": "EXFOLIATING TONER pre-soaked pads",
+    "brand": "Iroha Nature",
+    "category": "Discos",
+    "variants": [
+      {
+        "id": "182412",
+        "type": "U",
+        "price": "5.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/182412.jpg",
+          "https://i1.perfumesclub.com/grande/182412-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "10",
+        "description": "EXFOLIATING TONER pre-soaked pads 10 u",
+        "discount_price": "3.94"
+      }
+    ]
+  },
+  {
+    "name": "MASCARILLA FACIAL tis\u0026#250; iluminadora con pitahaya",
+    "brand": "Iroha Nature",
+    "category": "Mascarillas",
+    "variants": [
+      {
+        "id": "165272",
+        "type": "U",
+        "price": "3.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/165272.jpg",
+          "https://i1.perfumesclub.com/grande/165272-2.jpg",
+          "https://i1.perfumesclub.com/grande/165272-3.jpg",
+          "https://i1.perfumesclub.com/grande/165272-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "1",
+        "description": "NATURE MASK dragon fruit + hyaluronic acid 1 u",
+        "discount_price": "2.25"
+      }
+    ]
+  },
+  {
+    "name": "PARCHES SOS granos con \u0026#225;cido salic\u0026#237;lico, \u0026#225;rbol de t\u0026#233; y centella asi\u0026#225;tica",
+    "brand": "Iroha Nature",
+    "category": "Antiacn\u0026#233;, Poros y Puntos Negros",
+    "variants": [
+      {
+        "id": "171522",
+        "type": "U",
+        "price": "7.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/171522.jpg",
+          "https://i1.perfumesclub.com/grande/171522-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "18",
+        "description": "SOS pimple patches 18 u",
+        "discount_price": "4.95"
+      }
+    ]
+  },
+  {
+    "name": "COL\u0026#193;GENO Y \u0026#193;CIDO HIALUR\u0026#211;NICO mascarilla cara y cuello antiarrugas-antiedad",
+    "brand": "Iroha Nature",
+    "category": "Mascarillas",
+    "variants": [
+      {
+        "id": "89526",
+        "type": "U",
+        "price": "7.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/89526.jpg",
+          "https://i1.perfumesclub.com/grande/89526-2.jpg",
+          "https://i1.perfumesclub.com/grande/89526-3.jpg",
+          "https://i1.perfumesclub.com/grande/89526-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "1",
+        "description": "100% COTTON FACE \u0026amp; NECK MASK collagen-antiage 1 u",
+        "discount_price": "4.95"
+      }
+    ]
+  },
+  {
+    "name": "SUN",
+    "brand": "Jil Sander",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "3385",
+        "type": "ML",
+        "price": "47",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/3385.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "JIL SANDER SUN eau de toilette vaporizador 75 ml",
+        "discount_price": "17"
+      },
+      {
+        "id": "3386",
+        "type": "ML",
+        "price": "36",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/3386.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "JIL SANDER SUN eau de toilette vaporizador 30 ml",
+        "discount_price": "13.71"
+      }
+    ]
+  },
+  {
+    "name": "SUN MEN",
+    "brand": "Jil Sander",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "15523",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/15523.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "JIL SANDER SUN MEN eau de toilette vaporizador 75 ml",
+        "discount_price": "29.63"
+      },
+      {
+        "id": "18480",
+        "type": "ML",
+        "price": "77",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/18480.jpg"
+        ],
+        "is_active": true,
+        "quantity": "125",
+        "description": "JIL SANDER SUN MEN eau de toilette vaporizador 125 ml",
+        "discount_price": "27"
+      }
+    ]
+  },
+  {
+    "name": "PERFECT ELIXIR ",
+    "brand": "Marc Jacobs",
+    "category": "Eau de Parfum",
+    "variants": [
+      {
+        "id": "199660",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/199660.jpg",
+          "https://i1.perfumesclub.com/grande/199660-2.jpg",
+          "https://i1.perfumesclub.com/grande/199660-3.jpg",
+          "https://i1.perfumesclub.com/grande/199660-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "PERFECT ELIXIR eau de parfum vaporizador 50 ml",
+        "discount_price": "69.9"
+      },
+      {
+        "id": "199661",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/199661.jpg",
+          "https://i1.perfumesclub.com/grande/199661-2.jpg",
+          "https://i1.perfumesclub.com/grande/199661-3.jpg",
+          "https://i1.perfumesclub.com/grande/199661-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "PERFECT ELIXIR eau de parfum vaporizador 100 ml",
+        "discount_price": "80.5"
+      }
+    ]
+  },
+  {
+    "name": "PALOMA PICASSO ",
+    "brand": "Paloma Picasso",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "110687",
+        "type": "ML",
+        "price": "50",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/110687.jpg",
+          "https://i1.perfumesclub.com/grande/110687-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Paloma Picasso Eau de Toilette Spray para Mujer 100 ml",
+        "discount_price": "34.97"
+      },
+      {
+        "id": "50486978",
+        "type": "ML",
+        "price": "34.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/50486978.jpg",
+          "https://i1.perfumesclub.com/grande/50486978-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "PALOMA PICASSO eau de toilette vaporizador 50 ml",
+        "discount_price": "24.47"
+      }
+    ]
+  },
+  {
+    "name": "EAU DE ROCHAS ",
+    "brand": "Rochas",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "3852",
+        "type": "ML",
+        "price": "102",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/3852.jpg",
+          "https://i1.perfumesclub.com/grande/3852-2.jpg",
+          "https://i1.perfumesclub.com/grande/3852-3.jpg",
+          "https://i1.perfumesclub.com/grande/3852-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "EAU DE ROCHAS eau de toilette vaporizador 100 ml",
+        "discount_price": "42"
+      },
+      {
+        "id": "81398",
+        "type": "ML",
+        "price": "64",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/81398.jpg",
+          "https://i1.perfumesclub.com/grande/81398-2.jpg",
+          "https://i1.perfumesclub.com/grande/81398-3.jpg",
+          "https://i1.perfumesclub.com/grande/81398-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "EAU DE ROCHAS eau de toilette vaporizador 50 ml",
+        "discount_price": "24.26"
+      },
+      {
+        "id": "92929",
+        "type": "ML",
+        "price": "140",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/92929.jpg",
+          "https://i1.perfumesclub.com/grande/92929-2.jpg",
+          "https://i1.perfumesclub.com/grande/92929-3.jpg",
+          "https://i1.perfumesclub.com/grande/92929-4.jpg"
+        ],
+        "is_active": true,
+        "quantity": "220",
+        "description": "EAU DE ROCHAS eau de toilette vaporizador 220 ml",
+        "discount_price": "59.17"
+      }
+    ]
+  },
+  {
+    "name": "ROCHAS MAN ",
+    "brand": "Rochas",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "12065",
+        "type": "ML",
+        "price": "102",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/12065.jpg",
+          "https://i1.perfumesclub.com/grande/12065-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "ROCHAS MAN eau de toilette vaporizador 100 ml",
+        "discount_price": "33.94"
+      },
+      {
+        "id": "12066",
+        "type": "ML",
+        "price": "63",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/12066.jpg",
+          "https://i1.perfumesclub.com/grande/12066-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ROCHAS MAN eau de toilette vaporizador 50 ml",
+        "discount_price": "24.7"
+      }
+    ]
+  },
+  {
+    "name": "EAU DE ROCHAS bath and shower gel",
+    "brand": "Rochas",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "89292",
+        "type": "ML",
+        "price": "47",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/89292.jpg",
+          "https://i1.perfumesclub.com/grande/89292-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "EAU DE ROCHAS shower gel 500 ml",
+        "discount_price": "20.91"
+      }
+    ]
+  },
+  {
+    "name": "EAU DE ROCHAS perfumed body lotion",
+    "brand": "Rochas",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "87371",
+        "type": "ML",
+        "price": "47",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/87371.jpg",
+          "https://i1.perfumesclub.com/grande/87371-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "EAU DE ROCHAS body lotion 500 ml",
+        "discount_price": "22.56"
+      }
+    ]
+  },
+  {
+    "name": "ROCHAS EAU FRAICHE",
+    "brand": "Rochas",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "28065",
+        "type": "ML",
+        "price": "102",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/28065.jpg",
+          "https://i1.perfumesclub.com/grande/28065-2.jpg",
+          "https://i1.perfumesclub.com/grande/28065-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "ROCHAS EAU FRAICHE eau de toilette vaporizador 100 ml",
+        "discount_price": "44.69"
+      },
+      {
+        "id": "117626",
+        "type": "ML",
+        "price": "140",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/117626.jpg",
+          "https://i1.perfumesclub.com/grande/117626-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "220",
+        "description": "ROCHAS EAU FRAICHE eau de toilette vaporizador 220 ml",
+        "discount_price": "79.94"
+      }
+    ]
+  },
+  {
+    "name": "CLEAN ON ME creamy clarifying shower gel",
+    "brand": "Soap \u0026amp; Glory",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "158731",
+        "type": "ML",
+        "price": "7.49",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/158731.jpg",
+          "https://i1.perfumesclub.com/grande/158731-2.jpg",
+          "https://i1.perfumesclub.com/grande/158731-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "CLEAN ON ME creamy clarifying shower gel 500 ml",
+        "discount_price": "5.2"
+      }
+    ]
+  },
+  {
+    "name": "HALLOWEEN ",
+    "brand": "Halloween",
+    "category": "Eau de Toilette",
+    "variants": [
+      {
+        "id": "10707",
+        "type": "ML",
+        "price": "80",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/10707.jpg",
+          "https://i1.perfumesclub.com/grande/10707-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "HALLOWEEN eau de toilette vaporizador 100 ml",
+        "discount_price": "24.95"
+      },
+      {
+        "id": "10708",
+        "type": "ML",
+        "price": "54",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/10708.jpg",
+          "https://i1.perfumesclub.com/grande/10708-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "HALLOWEEN eau de toilette vaporizador 50 ml",
+        "discount_price": "18.95"
+      },
+      {
+        "id": "11016",
+        "type": "ML",
+        "price": "36.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/11016.jpg",
+          "https://i1.perfumesclub.com/grande/11016-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "HALLOWEEN eau de toilette vaporizador 30 ml",
+        "discount_price": "14.96"
+      },
+      {
+        "id": "60323",
+        "type": "ML",
+        "price": "98",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/60323.jpg",
+          "https://i1.perfumesclub.com/grande/60323-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "HALLOWEEN eau de toilette vaporizador 200 ml",
+        "discount_price": "47.35"
+      }
+    ]
+  }
+]

@@ -8,18 +8,19 @@ const (
 )
 
 type Product struct {
-	ID       string           `json:"id"`
 	Name     string           `json:"name"`
 	Brand    string           `json:"brand"`
-	Detail   string           `json:"detail"`
 	Category string           `json:"category"`
-	IsActive bool             `json:"is_active"`
 	Variants []ProductVariant `json:"variants"`
 }
 
 type ProductVariant struct {
-	Type     ProductVariantType `json:"type"`
-	Price    string             `json:"price"`
-	Quantity string             `json:"quantity"`
-	Photos   []string           `json:"photons"`
+	ID            string             `json:"id"`
+	Type          ProductVariantType `json:"type"`
+	Price         string             `json:"price"`
+	Photos        []string           `json:"photos"`
+	IsActive      bool               `json:"is_active"`
+	Quantity      string             `json:"quantity"`
+	Description   string             `json:"description"`
+	DiscountPrice string             `json:"discount_price"`
 }

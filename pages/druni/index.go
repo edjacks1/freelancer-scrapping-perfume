@@ -10,15 +10,6 @@ import (
 	"github.com/chromedp/chromedp"
 )
 
-type ProductDetail struct {
-	ID       string `json:"id"`
-	Name     string `json:"name"`
-	Category string `json:"category"`
-	Brand    string `json:"brand"`
-	Price    string `json:"price"`
-	Variant  string `json:"variant"`
-}
-
 type Page struct {
 	svc *service.Service
 }
@@ -73,14 +64,14 @@ func (p Page) GetProductDetail(url string, isActive bool) {
 	var product dao.Product
 	var productJSON string
 	// Verificar si esta activo
-	product.IsActive = isActive
+	variant.IsActive = isActive
 	// Ejecutar todas las tareas de chromedp en una sola llamada
 	err := chromedp.Run(ctx,
 		// Navegar a la página
 		chromedp.Navigate(url),
 		// Extraer el detalle del producto
 		chromedp.WaitVisible(`.product.attribute .value p`, chromedp.ByQuery),
-		chromedp.Text(`.product.attribute .value p`, &product.Detail, chromedp.NodeVisible),
+		chromedp.Text(`.product.attribute .value p`, &variant.Description, chromedp.NodeVisible),
 		// Extraer cantidad
 		chromedp.Text(`.product-info-main .page-title-wrapper.product-simple .simple-format`, &variant.Quantity, chromedp.NodeVisible),
 		// Extraer contenido
@@ -103,7 +94,7 @@ func (p Page) GetProductDetail(url string, isActive bool) {
 	}
 	// Quitar duplicados
 	variant.Photos = p.svc.RemoveDuplicates(variant.Photos)
-	// Limpiar variante
+	variant.DiscountPrice = variant.Price
 	variant.Quantity, variant.Type = p.GetVariantQuantityType(variant.Quantity)
 	// Asignar variante
 	product.Variants = append(product.Variants, variant)
