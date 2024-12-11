@@ -1,22 +1,36 @@
 package main
 
 import (
-	"perfume/pages/club"
+	pages_club "perfume/pages/club"
 	pages_druni "perfume/pages/druni"
+	pages_tintin "perfume/pages/tintin"
 	"perfume/service"
 )
 
+var svc service.Service
+
 func main() {
-	svc := service.InitService()
+	// Inicializar servicio
+	svc = service.InitService()
+	//Imprimir el total de productos
+	searchInTintinPage()
+	// Mostrar datos
+	svc.ShowTotalProducts()
+	svc.CreateFile()
+}
+
+func searchInDruniPage() {
 	//Obtener pagina
 	druniPage := pages_druni.InitPage(&svc)
 	// //Obtener productos
 	druniPage.GetProductDetail("https://www.druni.es/lady-secret-aquarius-cosmetics-eau-toilette-mujer", true)
 	druniPage.GetList("https://www.druni.es/marcas/aqc-fragances")
+}
+
+func searchInClubPage() {
 	// Obtener pagina
-	clubPage := club.InitPage(&svc)
+	clubPage := pages_club.InitPage(&svc)
 	// Obtener productos
-	clubPage.GetProductDetail("https://www.perfumesclub.com/es/4711/4711-eau-de-colonia/p_89291/", true)
 	clubPage.GetProductDetail("https://www.perfumesclub.com/es/4711/4711-eau-de-colonia/p_89291/", true)
 	clubPage.GetProductDetail("https://www.perfumesclub.com/es/hugo-boss/boss-bottled-eau-de-toilette-vaporizador/p_23010/", true)
 	clubPage.GetProductDetail("https://www.perfumesclub.com/es/hugo-boss/boss-bottled-absolu-eau-de-parfum-vaporizador/p_30005/", true)
@@ -46,11 +60,15 @@ func main() {
 	clubPage.GetProductDetail("https://www.perfumesclub.com/es/rochas/rochas-eau-fraiche-eau-de-toilette/p_40610/", true)
 	clubPage.GetProductDetail("https://www.perfumesclub.com/es/soap--glory/clean-on-me-creamy-clarifying-shower-gel/p_94915/", true)
 	clubPage.GetProductDetail("https://www.perfumesclub.com/es/jesus-del-pozo/halloween-eau-de-toilette-vaporizador/p_32310/", true)
-	//
-	clubPage.GetProductDetail("https://www.perfumestintin.com/es/99300-flor-d-ametller", true)
-	//Imprimir el total de productos
-	svc.ShowTotalProducts()
-	svc.CreateFile()
+}
+
+func searchInTintinPage() {
+	//Obtener pagina
+	page := pages_tintin.InitPage(&svc)
+	// //Obtener productos
+	page.GetProductDetail("https://www.perfumestintin.com/es/flor-d-ametller/30010001-flor-d-ametller-flor-d-ametler-eau-de-toilette")
+	// page.GetProductDetail("https://www.perfumestintin.com/es/99300-flor-d-ametller", true)
+
 }
 
 // lugepemo2

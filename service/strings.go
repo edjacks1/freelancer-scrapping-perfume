@@ -1,5 +1,10 @@
 package service
 
+import (
+	"regexp"
+	"strings"
+)
+
 func (s Service) RemoveDuplicates(strings []string) []string {
 	// Usar un mapa para almacenar los elementos únicos
 	unique := make(map[string]struct{})
@@ -16,4 +21,12 @@ func (s Service) RemoveDuplicates(strings []string) []string {
 	}
 
 	return result
+}
+
+func (s Service) RemoveSpaces(value string) string {
+	return strings.ReplaceAll(value, " ", "")
+}
+
+func (s Service) GetDigitsFromString(value string) string {
+	return regexp.MustCompile(`[^0-9.-]+`).ReplaceAllString(strings.ReplaceAll(value, ",", "."), "")
 }

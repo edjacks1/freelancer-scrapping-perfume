@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"perfume/dao"
 	"perfume/service"
-	"strings"
 
 	"github.com/chromedp/chromedp"
 )
@@ -95,31 +94,9 @@ func (p Page) GetProductDetail(url string, isActive bool) {
 	// Quitar duplicados
 	variant.Photos = p.svc.RemoveDuplicates(variant.Photos)
 	variant.DiscountPrice = variant.Price
-	variant.Quantity, variant.Type = p.GetVariantQuantityType(variant.Quantity)
+	variant.Quantity, variant.Type = p.svc.GetProductVariantType(variant.Quantity)
 	// Asignar variante
 	product.Variants = append(product.Variants, variant)
 	// Mostrar producto
 	p.svc.AddProduct(product)
-}
-
-func (p Page) GetVariantQuantityType(quantity string) (string, dao.ProductVariantType) {
-	// Remplazar caracteres
-	quantity = strings.ReplaceAll(quantity, "| ", "")
-	// Verificar si hay tamaño
-	if len(quantity) > 0 {
-		// Verificar si es unidad
-		if strings.ToLower(quantity)[len(quantity)-1] == 'u' {
-			return quantity[:len(quantity)-1], dao.ProductVariantUnitType
-		}
-		// Verificar si el tamaño es mayor a dos
-		if len(quantity) > 2 {
-			runes := []rune(strings.ToLower(quantity))
-			// Verificar si es mililitro
-			if string(runes[len(runes)-2:]) == "ml" {
-				return quantity[:len(quantity)-2], dao.ProductVariantMlType
-			}
-		}
-	}
-	// Return
-	return "1", dao.ProductVariantUnitType
 }

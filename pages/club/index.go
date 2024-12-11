@@ -1,4 +1,4 @@
-package club
+package pages_club
 
 import (
 	"fmt"
