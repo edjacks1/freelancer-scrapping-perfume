@@ -20,7 +20,7 @@ func (s Service) InitContext() (context.Context, []context.CancelFunc) {
 	// Crear un contexto de Chrome
 	ctx, chromedp_cancel := chromedp.NewContext(context.Background())
 	// Añadir timeout
-	ctx, ctx_cancel := context.WithTimeout(ctx, 15*time.Second)
+	ctx, ctx_cancel := context.WithTimeout(ctx, 60*time.Second)
 	//Regresar data
 	return ctx, []context.CancelFunc{chromedp_cancel, ctx_cancel}
 }
