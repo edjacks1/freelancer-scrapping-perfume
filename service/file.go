@@ -28,3 +28,7 @@ func (s Service) CreateFile() {
 		return
 	}
 }
+
+func (s Service) GetLogFolderPath() string {
+	return s.logFolderPath
+}

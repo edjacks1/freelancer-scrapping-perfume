@@ -18,7 +18,7 @@ func InitPage(svc *service.Service) Page {
 }
 
 func (p Page) GetList(url string) {
-	ctx, cancelFns := p.svc.InitContext()
+	ctx, cancelFns := p.svc.InitContext(60)
 	// Terminar funciones
 	defer p.svc.CancelContexts(cancelFns)
 	// Obtener urs
@@ -55,7 +55,7 @@ func (p Page) GetList(url string) {
 }
 
 func (p Page) GetProductDetail(url string, isActive bool) {
-	ctx, cancelFns := p.svc.InitContext()
+	ctx, cancelFns := p.svc.InitContext(60)
 	// Terminar funciones
 	defer p.svc.CancelContexts(cancelFns)
 	// Variable para almacenar los datos del producto

@@ -7,6 +7,11 @@ import (
 )
 
 // Añadir producto
+func (s *Service) AddWrongUrls(url string) {
+	s.wrongUrls = append(s.wrongUrls, url)
+}
+
+// Añadir producto
 func (s *Service) AddProduct(product dao.Product) {
 	s.products = append(s.products, product)
 }
@@ -21,7 +26,15 @@ func (s Service) ShowTotalProducts() {
 	}
 	// Imprimir
 	fmt.Printf("Total de productos: %d\n", len(s.products))
-	fmt.Printf("Total de variantes: %d\n", total)
+	fmt.Printf("Total de variantes: %d\n\n", total)
+	// Verificar si existen urls malas
+	if len(s.wrongUrls) > 0 {
+		fmt.Printf("Urls que tuvieron problemas: %d\n\n", total)
+		// Iterar
+		for _, url := range s.wrongUrls {
+			fmt.Println(url)
+		}
+	}
 }
 
 func (s Service) GetProductVariantType(quantity string) (string, dao.ProductVariantType) {

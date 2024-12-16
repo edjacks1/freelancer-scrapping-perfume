@@ -24,11 +24,10 @@ func main() {
 	svc.ValidateProducts()
 	svc.ShowTotalProducts()
 	svc.CreateFile()
-
+	// Fecha de fin.
 	endDate := time.Now()
-
 	// Mostrar mensaje
-	fmt.Printf("El programa ha terminado con un tiempo de ejecucion de: %v\n", endDate.Sub(startDate).Seconds())
+	svc.CalculateDuration(startDate, endDate)
 }
 
 func searchInDruniPage() {
@@ -40,16 +39,28 @@ func searchInDruniPage() {
 }
 
 func searchInClubPage() {
+	fmt.Println("Se ha consultado pagina club")
 	// Obtener pagina
 	clubPage := pages_club.InitPage(&svc)
-	// Obtener categorias
-	clubPage.GetList("https://www.perfumesclub.com/es/babaria/m/")
-	// clubPage.GetList("https://www.perfumesclub.com/es/essence/m/")
-	// clubPage.GetList("https://www.perfumesclub.com/es/colgate/m/")
-	// clubPage.GetList("https://www.perfumesclub.com/es/st.-moriz/m/")
-	// clubPage.GetList("https://www.perfumesclub.com/es/bondi-sands/m/")
-	// clubPage.GetList("https://www.perfumesclub.com/es/skin-generics/m/")
-	// clubPage.GetList("https://www.perfumesclub.com/es/aqc-fragrances/m/")
+	// Listado de categorais
+	clubPage.MassiveSearch([]string{
+		"https://www.perfumesclub.com/es/vanderbilt/m/",
+		"https://www.perfumesclub.com/es/jesus-del-pozo/m/",
+		"https://www.perfumesclub.com/es/hugo-boss/m/",
+		"https://www.perfumesclub.com/es/instituto-espanol/m/",
+		"https://www.perfumesclub.com/es/issey-miyake/m/",
+		"https://www.perfumesclub.com/es/jean-paul-gaultier/m/",
+		"https://www.perfumesclub.com/es/jil-sander/m/",
+		"https://www.perfumesclub.com/es/joop/m/",
+		"https://www.perfumesclub.com/es/kenzo/m/",
+		"https://www.perfumesclub.com/es/marc-jacobs/m/",
+		"https://www.perfumesclub.com/es/nivea/m/",
+		"https://www.perfumesclub.com/es/origins/m/",
+		"https://www.perfumesclub.com/es/skin-generics/m/",
+		"https://www.perfumesclub.com/es/axe/m/",
+		"https://www.perfumesclub.com/es/cacharel/m/",
+	})
+
 	// Obtener productos
 	// clubPage.GetProductDetail("https://www.perfumesclub.com/es/4711/4711-eau-de-colonia/p_89291/")
 	// clubPage.GetProductDetail("https://www.perfumesclub.com/es/hugo-boss/boss-bottled-eau-de-toilette-vaporizador/p_23010/")

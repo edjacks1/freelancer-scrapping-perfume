@@ -1,0 +1,3296 @@
+[
+  {
+    "name": "SOLAR MULTIPROTECCION crema antimanchas SPF50+",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "154368",
+        "type": "ML",
+        "price": "13.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/154368.jpg",
+          "https://i1.perfumesclub.com/grande/154368-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "SOLAR MULTIPROTECCION crema antimanchas SPF50+ 50 ml",
+        "discount_price": "7.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR CREMA CARA \u0026amp; ESCOTE anti-manchas SPF50+",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "101412",
+        "type": "ML",
+        "price": "11.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101412.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "SOLAR CARA\u0026amp;ESCOTE fluido anti-manchas SPF50+ 75 ml",
+        "discount_price": "7.74"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA Crema facial antiarrugas con ",
+    "brand": "Babaria",
+    "category": "Antiedad y Antiarrugas",
+    "variants": [
+      {
+        "id": "68573",
+        "type": "ML",
+        "price": "9.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/68573.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ALOE VERA crema antiarrugas 50 ml",
+        "discount_price": "6.26"
+      }
+    ]
+  },
+  {
+    "name": "ROSA MOSQUETA ANTIARRUGAS crema facial",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "88063",
+        "type": "ML",
+        "price": "11",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/88063.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ROSA MOSQUETA ANTIARRUGAS crema facial 50 ml",
+        "discount_price": "7.34"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ACEITE PROTECTOR DE ZANAHORIA SPF6 spray",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101149",
+        "type": "ML",
+        "price": "9",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101149.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "SOLAR ACEITE DE ZANAHORIA vaporizador SPF6 300 ml",
+        "discount_price": "5.95"
+      }
+    ]
+  },
+  {
+    "name": "CEBOLLA champ\u0026#250; antioxidante",
+    "brand": "Babaria",
+    "category": "Purificantes",
+    "variants": [
+      {
+        "id": "74522",
+        "type": "ML",
+        "price": "4.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/74522.jpg"
+        ],
+        "is_active": true,
+        "quantity": "700",
+        "description": "CEBOLLA champ\u0026#250; antioxidante 600 ml",
+        "discount_price": "3.29"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA leche limpiadora",
+    "brand": "Babaria",
+    "category": "Leches Limpiadoras",
+    "variants": [
+      {
+        "id": "88060",
+        "type": "ML",
+        "price": "3.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/88060.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "ALOE VERA leche limpiadora 300 ml",
+        "discount_price": "2.49"
+      }
+    ]
+  },
+  {
+    "name": "COCO mascarilla hidratante capilar",
+    "brand": "Babaria",
+    "category": "Desenredantes",
+    "variants": [
+      {
+        "id": "184401",
+        "type": "ML",
+        "price": "5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/184401.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "COCO mascarilla hidratante capilar 400 ml",
+        "discount_price": "3.35"
+      }
+    ]
+  },
+  {
+    "name": "AVENA body milk calmante piel sensible",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "185814",
+        "type": "ML",
+        "price": "3.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/185814.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "AVENA body milk calmante piel sensible 400 ml",
+        "discount_price": "2.59"
+      }
+    ]
+  },
+  {
+    "name": "DESMAQUILLADOR BIFASICO agua micelar aloe vera",
+    "brand": "Babaria",
+    "category": "Aguas Micelares",
+    "variants": [
+      {
+        "id": "169064",
+        "type": "ML",
+        "price": "5.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169064.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "DESMAQUILLADOR BIFASICO agua micelar aloe vera 400 ml",
+        "discount_price": "3.94"
+      }
+    ]
+  },
+  {
+    "name": "COLAGENO VEGANO serum reafirmante intenso",
+    "brand": "Babaria",
+    "category": "Reafirmantes y Efecto Lifting",
+    "variants": [
+      {
+        "id": "185817",
+        "type": "ML",
+        "price": "9.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/185817.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "COLAGENO VEGANO serum reafirmante intenso 30 ml",
+        "discount_price": "5.95"
+      }
+    ]
+  },
+  {
+    "name": "ROSA MOSQUETA jab\u0026#243;n \u0026#237;ntimo",
+    "brand": "Babaria",
+    "category": "Geles \u0026#237;ntimos",
+    "variants": [
+      {
+        "id": "64564",
+        "type": "ML",
+        "price": "4.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/64564.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "ROSA MOSQUETA jab\u0026#243;n \u0026#237;ntimo 300 ml",
+        "discount_price": "2.75"
+      }
+    ]
+  },
+  {
+    "name": "VITAMIN C serum antioxidante",
+    "brand": "Babaria",
+    "category": "Antioxidantes",
+    "variants": [
+      {
+        "id": "106741",
+        "type": "ML",
+        "price": "8.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/106741.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "VITAMIN C serum antioxidante 30 ml",
+        "discount_price": "5.89"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA BB cream SPF15",
+    "brand": "Babaria",
+    "category": "BB Creams",
+    "variants": [
+      {
+        "id": "62482",
+        "type": "ML",
+        "price": "9",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/62482.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ALOE VERA BB cream SPF15 50 ml",
+        "discount_price": "5.99"
+      }
+    ]
+  },
+  {
+    "name": "RETINOL serum antiarrugas",
+    "brand": "Babaria",
+    "category": "Antiedad y Antiarrugas",
+    "variants": [
+      {
+        "id": "106742",
+        "type": "ML",
+        "price": "8.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/106742.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "RETINOL serum antiarrugas 30 ml",
+        "discount_price": "5.89"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ACIDO HIALUR\u0026#211;NICO serum facial SPF50+",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "195450",
+        "type": "ML",
+        "price": "13.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/195450.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "SOLAR ACIDO HIALUR\u0026#211;NICO serum facial SPF50+ 30 ml",
+        "discount_price": "7.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR STICK FACIAL SPF50",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "50044399",
+        "type": "U",
+        "price": "9",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/50044399.jpg"
+        ],
+        "is_active": true,
+        "quantity": "20",
+        "description": "SOLAR STICK FACIAL SPF50 20 gr",
+        "discount_price": "5.75"
+      }
+    ]
+  },
+  {
+    "name": "PARA PIES desodorante spray efecto talco",
+    "brand": "Babaria",
+    "category": "Higiene",
+    "variants": [
+      {
+        "id": "63970",
+        "type": "ML",
+        "price": "4.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/63970.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "PARA PIES talco desodorante vaporizador 150 ml",
+        "discount_price": "2.89"
+      }
+    ]
+  },
+  {
+    "name": "Leche corporal REAFIRMANTE DE ALOE VERA",
+    "brand": "Babaria",
+    "category": "Reafirmantes",
+    "variants": [
+      {
+        "id": "161062",
+        "type": "ML",
+        "price": "4.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/161062.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "ALOE VERA leche corporal REAFIRMANTE 400 ml",
+        "discount_price": "2.8"
+      }
+    ]
+  },
+  {
+    "name": "VITAMIN C crema facial antioxidante",
+    "brand": "Babaria",
+    "category": "Antioxidantes",
+    "variants": [
+      {
+        "id": "157026",
+        "type": "ML",
+        "price": "7.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/157026.jpg",
+          "https://i1.perfumesclub.com/grande/157026-2.jpg",
+          "https://i1.perfumesclub.com/grande/157026-3.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "VITAMIN C crema facial antioxidante 50 ml",
+        "discount_price": "5.15"
+      }
+    ]
+  },
+  {
+    "name": "DESMAQUILLADOR BIFASICO ojos-labios",
+    "brand": "Babaria",
+    "category": "Desmaquillantes ojos y labios",
+    "variants": [
+      {
+        "id": "169054",
+        "type": "ML",
+        "price": "4.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169054.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "DESMAQUILLADOR BIFASICO ojos-labios 100 ml",
+        "discount_price": "2.8"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR MULTIPROTECCION crema antimanchas color SPF50+",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "154369",
+        "type": "ML",
+        "price": "13.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/154369.jpg",
+          "https://i1.perfumesclub.com/grande/154369-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "SOLAR MULTIPROTECCION crema antimanchas color SPF50+ 50 ml",
+        "discount_price": "8.99"
+      }
+    ]
+  },
+  {
+    "name": "ROSA MOSQUETA HIDRATANTE 24H crema facial",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "88062",
+        "type": "ML",
+        "price": "11",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/88062.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ROSA MOSQUETA HIDRATANTE 24H crema facial SPF15 50 ml",
+        "discount_price": "7.34"
+      }
+    ]
+  },
+  {
+    "name": "LECHE COCO \u0026amp; VAINILLA gel de ducha",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "50043845",
+        "type": "ML",
+        "price": "3.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/50043845.jpg"
+        ],
+        "is_active": true,
+        "quantity": "1000",
+        "description": "LECHE COCO \u0026amp; VAINILLA gel de ducha 1000 ml",
+        "discount_price": "2.4"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR SPORT crema protectora facial SPF50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "121735",
+        "type": "ML",
+        "price": "11.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/121735.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "SOLAR SPORT crema solar waterproof SPF50 75 ml",
+        "discount_price": "6.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ADN SENSITIVE crema solar facial SPF50+",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "121734",
+        "type": "ML",
+        "price": "11.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/121734.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "SOLAR ADN SENSITIVE crema solar facial SPF50+ 75 ml",
+        "discount_price": "6.95"
+      }
+    ]
+  },
+  {
+    "name": "HYALURONIC ACID s\u0026#233;rum ultrahidratante",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "106740",
+        "type": "ML",
+        "price": "8.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/106740.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "HYALURONIC ACID s\u0026#233;rum ultrahidratante 30 ml",
+        "discount_price": "5.89"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE DE OLIVA sensitive desodorante roll-on",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "79608",
+        "type": "ML",
+        "price": "2.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/79608.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ACEITE DE OLIVA sensitive desodorante roll-on 50 ml",
+        "discount_price": "1.49"
+      }
+    ]
+  },
+  {
+    "name": "HYALURONIC ACID crema facial ultrahidratante",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "157027",
+        "type": "ML",
+        "price": "7.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/157027.jpg",
+          "https://i1.perfumesclub.com/grande/157027-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "HYALURONIC ACID crema facial ultrahidratante 50 ml",
+        "discount_price": "5.15"
+      }
+    ]
+  },
+  {
+    "name": "GLYCOLIC ACID crema facial renovaci\u0026#243;n celular",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "169055",
+        "type": "ML",
+        "price": "6.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169055.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "GLYCOLIC ACID crema facial renovaci\u0026#243;n celular 50 ml",
+        "discount_price": "4.59"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA jab\u0026#243;n liquido manos",
+    "brand": "Babaria",
+    "category": "Jab\u0026#243;n de manos",
+    "variants": [
+      {
+        "id": "64532",
+        "type": "ML",
+        "price": "3.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/64532.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "ALOE VERA jab\u0026#243;n liquido manos 500 ml",
+        "discount_price": "2.29"
+      }
+    ]
+  },
+  {
+    "name": "UREA 20% CREMA DE MANOS LOTE",
+    "brand": "Babaria",
+    "category": "Manos",
+    "variants": [
+      {
+        "id": "94992",
+        "type": "ML",
+        "price": "4.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/94992.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "CREMA DE MANOS UREA 20% lote ",
+        "discount_price": "3.15"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR STICK LABIAL SPF30",
+    "brand": "Babaria",
+    "category": "Labiales",
+    "variants": [
+      {
+        "id": "68597",
+        "type": "ML",
+        "price": "4.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/68597.jpg"
+        ],
+        "is_active": true,
+        "quantity": "5,7",
+        "description": "SOLAR STICK LABIAL SPF30 5,7 ml",
+        "discount_price": "3.05"
+      }
+    ]
+  },
+  {
+    "name": "PARA PIES crema durezas",
+    "brand": "Babaria",
+    "category": "Pies",
+    "variants": [
+      {
+        "id": "63968",
+        "type": "ML",
+        "price": "4.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/63968.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "PARA PIES crema durezas 50 ml",
+        "discount_price": "2.89"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE DE OLIVA mascarilla nutritiva capilar",
+    "brand": "Babaria",
+    "category": "Desenredantes",
+    "variants": [
+      {
+        "id": "50097855",
+        "type": "ML",
+        "price": "4.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/50097855.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "ACEITE DE OLIVA mascarilla nutritiva capilar 400 ml",
+        "discount_price": "2.95"
+      }
+    ]
+  },
+  {
+    "name": "PARA PIES crema secos/agrietados",
+    "brand": "Babaria",
+    "category": "Pies",
+    "variants": [
+      {
+        "id": "63969",
+        "type": "ML",
+        "price": "3.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/63969.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "PARA PIES crema secos/agrietados 150 ml",
+        "discount_price": "2.65"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA 24H crema facial hidratante",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "68572",
+        "type": "ML",
+        "price": "5.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/68572.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ALOE VERA crema hidratante 24 horas 50 ml",
+        "discount_price": "5.65"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ADN crema facial aloe vera SPF50",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "102504",
+        "type": "ML",
+        "price": "11.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/102504.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "SOLAR ADN crema solar facial aloe vera SPF50+  75 ml",
+        "discount_price": "6.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ALOE VERA after sun gel",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101411",
+        "type": "ML",
+        "price": "6",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101411.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "SOLAR ALOE VERA AFTER SUN gel efecto hielo 200 ml",
+        "discount_price": "3.99"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR PIELES SENSIBLES bruma protectora SPF50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102483",
+        "type": "ML",
+        "price": "15",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/102483.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "SOLAR PIEL SENSIBLE bruma protectora SPF50 200 ml",
+        "discount_price": "8.99"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ACEITE PROTECTOR MONOI TAHITI SPF15 spray",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101029",
+        "type": "ML",
+        "price": "10.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101029.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "SOLAR ACEITE MONOI TAHITI pistola SPF15 300 ml",
+        "discount_price": "6.75"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR LECHE PROTECTORA ALOE SPF30 LOTE",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101154",
+        "type": "U",
+        "price": "13",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101154.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "SOLAR ALOE VERA SPF30 LECHE lote",
+        "discount_price": "8.35"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE ALMENDRAS body milk piel seca",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "50044136",
+        "type": "ML",
+        "price": "1.99",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/50044136.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "ACEITE ALMENDRAS body milk piel seca 400 ml",
+        "discount_price": "1.89"
+      }
+    ]
+  },
+  {
+    "name": "HYALURONIC ACID crema manos ultrahidratante",
+    "brand": "Babaria",
+    "category": "Manos",
+    "variants": [
+      {
+        "id": "185815",
+        "type": "ML",
+        "price": "3.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/185815.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "HYALURONIC ACID crema manos ultrahidratante 75 ml",
+        "discount_price": "2.59"
+      }
+    ]
+  },
+  {
+    "name": "COLAGENO VEGANO ampollas reafirmante intenso",
+    "brand": "Babaria",
+    "category": "Reafirmantes y Efecto Lifting",
+    "variants": [
+      {
+        "id": "185818",
+        "type": "ML",
+        "price": "8",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/185818.jpg"
+        ],
+        "is_active": true,
+        "quantity": "5",
+        "description": "COLAGENO VEGANO ampollas reafirmante intenso 5 x 2 ml",
+        "discount_price": "5.29"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR STICK FACIAL AZUL SPF50",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "195448",
+        "type": "U",
+        "price": "9.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/195448.jpg"
+        ],
+        "is_active": true,
+        "quantity": "20",
+        "description": "SOLAR STICK FACIAL AZUL SPF50 20 gr",
+        "discount_price": "5.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ACIDO HIALUR\u0026#211;NICO crema facial SPF50+",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "195449",
+        "type": "ML",
+        "price": "11.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/195449.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "SOLAR ACIDO HIALUR\u0026#211;NICO crema facial SPF50+ 75 ml",
+        "discount_price": "6.95"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE DE OLIVA crema corporal nutritiva",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "62744",
+        "type": "ML",
+        "price": "3.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/62744.jpg"
+        ],
+        "is_active": true,
+        "quantity": "250",
+        "description": "ACEITE DE OLIVA crema nutritiva corporal 250 ml",
+        "discount_price": "2.15"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ACEITE MONOI TAHITI aceite luminoso",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "184396",
+        "type": "ML",
+        "price": "6.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/184396.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "SOLAR ACEITE MONOI TAHITI aceite luminoso 100 ml",
+        "discount_price": "4.45"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR MINERAL UV fluido facil fotoprotector SPF50",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "169061",
+        "type": "ML",
+        "price": "13.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169061.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "SOLAR MINERAL UV fluido facil fotoprotector SPF50 50 ml",
+        "discount_price": "7.95"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA gel limpiador facial matificante",
+    "brand": "Babaria",
+    "category": "Geles y Jabones",
+    "variants": [
+      {
+        "id": "50044209",
+        "type": "ML",
+        "price": "5.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/50044209.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "ALOE VERA gel limpiador facial matificante 150 ml",
+        "discount_price": "3.75"
+      }
+    ]
+  },
+  {
+    "name": "GLYCOLIC ACID serum renovaci\u0026#243;n celular",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "169056",
+        "type": "ML",
+        "price": "5.32",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169056.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "GLYCOLIC ACID serum renovaci\u0026#243;n celular 30 ml",
+        "discount_price": "5.23"
+      }
+    ]
+  },
+  {
+    "name": "GLYCOLIC ACID renovaci\u0026#243;n celular ampollas",
+    "brand": "Babaria",
+    "category": "Antiacn\u0026#233;, Poros y Puntos Negros",
+    "variants": [
+      {
+        "id": "169057",
+        "type": "ML",
+        "price": "8.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169057.jpg"
+        ],
+        "is_active": true,
+        "quantity": "5",
+        "description": "GLYCOLIC ACID renovaci\u0026#243;n celular ampollas 5 x 2 ml",
+        "discount_price": "5.55"
+      }
+    ]
+  },
+  {
+    "name": "PIEL AT\u0026#211;PICA aloe vera crema facial 0%",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "88065",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/88065.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "PIEL ATOPICA aloe vera crema facial 0% 50 ml",
+        "discount_price": "12.73"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA gel exfoliante facial",
+    "brand": "Babaria",
+    "category": "Exfoliantes",
+    "variants": [
+      {
+        "id": "166358",
+        "type": "ML",
+        "price": "5.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/166358.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "ALOE VERA gel exfoliante facial 100 ml",
+        "discount_price": "3.55"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA contorno de ojos",
+    "brand": "Babaria",
+    "category": "Antiedad y Reafirmantes",
+    "variants": [
+      {
+        "id": "62481",
+        "type": "ML",
+        "price": "9.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/62481.jpg",
+          "https://i1.perfumesclub.com/grande/62481-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "15",
+        "description": "ALOE VERA contorno ojos 15 ml",
+        "discount_price": "6.26"
+      }
+    ]
+  },
+  {
+    "name": "ROSA MOSQUETA jab\u0026#243;n de manos",
+    "brand": "Babaria",
+    "category": "Jab\u0026#243;n de manos",
+    "variants": [
+      {
+        "id": "64534",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/64534.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "ROSA MOSQUETA jab\u0026#243;n de manos 500 ml",
+        "discount_price": "2.74"
+      }
+    ]
+  },
+  {
+    "name": "PARA PIES crema hidratante",
+    "brand": "Babaria",
+    "category": "Pies",
+    "variants": [
+      {
+        "id": "63967",
+        "type": "ML",
+        "price": "3.95",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/63967.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "PARA PIES crema hidratante 150 ml",
+        "discount_price": "2.65"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE DE OLIVA gel de ducha",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "88061",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/88061.jpg"
+        ],
+        "is_active": true,
+        "quantity": "600",
+        "description": "ACEITE DE OLIVA gel de ducha 600 ml",
+        "discount_price": "1.86"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA dermo-sensitive deodorant spray",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "64064",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/64064.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "ALOE VERA dermo sensible desodorante vaporizador 200 ml",
+        "discount_price": "6.76"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA original deodorant roll-on",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "174753",
+        "type": "ML",
+        "price": "2.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/174753.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ALOE VERA original deo roll-on 50 ml",
+        "discount_price": "1.55"
+      }
+    ]
+  },
+  {
+    "name": "ALOE VERA gel de ba\u0026#241;o hidratante",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "96681",
+        "type": "ML",
+        "price": "3.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/96681.jpg"
+        ],
+        "is_active": true,
+        "quantity": "600",
+        "description": "ALOE VERA gel ba\u0026#241;o hidratante 600 ml",
+        "discount_price": "2.35"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR AQUA UV SPF50 bif\u0026#225;sico",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "169060",
+        "type": "ML",
+        "price": "13.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169060.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "SOLAR AQUA UV SPF50 bif\u0026#225;sico 200 ml",
+        "discount_price": "8.75"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR AQUA UV SPF30 bif\u0026#225;sico",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "169059",
+        "type": "ML",
+        "price": "12",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169059.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "SOLAR AQUA UV SPF30 bif\u0026#225;sico 200 ml",
+        "discount_price": "6.95"
+      }
+    ]
+  },
+  {
+    "name": "ROSA MOSQUETA aceite puro facial",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "63076",
+        "type": "ML",
+        "price": "16.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/63076.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "ROSA MOSQUETA aceite puro facial 50 ml",
+        "discount_price": "11.14"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ADN INVISIBLE crema solar facial SPF50",
+    "brand": "Babaria",
+    "category": "Faciales",
+    "variants": [
+      {
+        "id": "121723",
+        "type": "ML",
+        "price": "11.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/121723.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "SOLAR ADN INVISIBLE crema solar facial SPF50 75 ml",
+        "discount_price": "6.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR INFANTIL SPF50+ LECHE LOTE",
+    "brand": "Babaria",
+    "category": "Protectores solares",
+    "variants": [
+      {
+        "id": "184397",
+        "type": "U",
+        "price": "15",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/184397.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "SOLAR INFANTIL SPF50+ LECHE lote 2 pz",
+        "discount_price": "8.95"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ACEITE COCO SPF30 LOTE",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "184398",
+        "type": "U",
+        "price": "13",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/184398.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "SOLAR ACEITE COCO SPF30 lote 2 pz",
+        "discount_price": "8.45"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ALOE VERA LECHE SPF50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101155",
+        "type": "U",
+        "price": "14.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101155.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "SOLAR ALOE VERA SPF50 LECHE lote",
+        "discount_price": "9.66"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR PIEL SENSIBLE SPF50 LECHE LOTE",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101027",
+        "type": "U",
+        "price": "15",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/101027.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "SOLAR PIEL SENSIBLE SPF50+ LECHE lote",
+        "discount_price": "8.95"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE DE OLIVA body milk",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "74527",
+        "type": "ML",
+        "price": "2.75",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/74527.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "ACEITE DE OLIVA leche corporal hidratante 400 ml",
+        "discount_price": "1.75"
+      }
+    ]
+  },
+  {
+    "name": "ACEITE DE OLIVA crema nutritiva manos",
+    "brand": "Babaria",
+    "category": "Manos",
+    "variants": [
+      {
+        "id": "169053",
+        "type": "ML",
+        "price": "2.25",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169053.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "ACEITE DE OLIVA crema nutritiva manos 75 ml",
+        "discount_price": "1.49"
+      }
+    ]
+  },
+  {
+    "name": "COCO crema corporal",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "169063",
+        "type": "ML",
+        "price": "5.5",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/169063.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "COCO crema corporal 400 ml",
+        "discount_price": "3.59"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR GELATINA COCO SPF0 exotic bronze",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "122230",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/122230.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "SOLAR GELATINA COCO SPF0 exotic bronze 300 ml",
+        "discount_price": "43.82"
+      }
+    ]
+  },
+  {
+    "name": "SOLAR ALOE VERA AFTER SUN spray reparador",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "154367",
+        "type": "ML",
+        "price": "8",
+        "photos": [
+          "https://i1.perfumesclub.com/grande/154367.jpg"
+        ],
+        "is_active": true,
+        "quantity": "250",
+        "description": "SOLAR ALOE VERA AFTER SUN spray reparador 250 ml",
+        "discount_price": "5.15"
+      }
+    ]
+  },
+  {
+    "name": "Spray Protector Kids Spf50+",
+    "brand": "Babaria",
+    "category": "Protectores solares",
+    "variants": [
+      {
+        "id": "50043870",
+        "type": "ML",
+        "price": "12.16",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043870.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Spray Protector Kids Spf50+ 200ml",
+        "discount_price": "11.33"
+      }
+    ]
+  },
+  {
+    "name": "Protector Solar Infantil Spf50+",
+    "brand": "Babaria",
+    "category": "Protectores solares",
+    "variants": [
+      {
+        "id": "50043873",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043873.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Protector Solar Infantil Spf50+ 200ml",
+        "discount_price": "25.85"
+      }
+    ]
+  },
+  {
+    "name": "Leche Protectora Kids Spf50+",
+    "brand": "Babaria",
+    "category": "Protectores solares",
+    "variants": [
+      {
+        "id": "50043875",
+        "type": "ML",
+        "price": "11.43",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043875.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Leche Protectora Kids Spf50+ 200ml",
+        "discount_price": "10.38"
+      }
+    ]
+  },
+  {
+    "name": "Toallitas desmaquillantes Rosa Mosqueta BABARIA",
+    "brand": "Babaria",
+    "category": "Desmaquillantes rostro",
+    "variants": [
+      {
+        "id": "50043827",
+        "type": "U",
+        "price": "7.1",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043827.jpg"
+        ],
+        "is_active": true,
+        "quantity": "25",
+        "description": "Toallitas desmaquillantes Rosa Mosqueta 25uds",
+        "discount_price": "5.92"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Facial Rosa Mosqueta",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "50044038",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044038.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "Aceite Facial Rosa Mosqueta 30ml",
+        "discount_price": "10.24"
+      }
+    ]
+  },
+  {
+    "name": "Protecci\u0026#243;n Luz Azul Crema Facial",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "50044057",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044057.jpg"
+        ],
+        "is_active": true,
+        "quantity": "1",
+        "description": "Protecci\u0026#243;n Luz Azul Crema Facial",
+        "discount_price": "5.69"
+      }
+    ]
+  },
+  {
+    "name": "Crema Facial Reparadora Sense O2",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "50044058",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044058.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "Crema Facial Reparadora Sense O2 50ml",
+        "discount_price": "12.12"
+      }
+    ]
+  },
+  {
+    "name": "Crema Facial Retinol",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "50044061",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044061.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "Crema Facial Retinol 50ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "T\u0026#243;nico Facial Aloe Vera",
+    "brand": "Babaria",
+    "category": "T\u0026#243;nicos",
+    "variants": [
+      {
+        "id": "50043893",
+        "type": "ML",
+        "price": "2.94",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043893.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "ALOE VERA tonico facial calmante 300 ml",
+        "discount_price": "2.72"
+      }
+    ]
+  },
+  {
+    "name": "Contorno de Ojos Anti-Manchas D\u0026#237;a y Noche",
+    "brand": "Babaria",
+    "category": "Antiedad y Reafirmantes",
+    "variants": [
+      {
+        "id": "50043908",
+        "type": "ML",
+        "price": "6.09",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043908.jpg"
+        ],
+        "is_active": true,
+        "quantity": "12",
+        "description": "Contorno de Ojos Anti-Manchas D\u0026#237;a y Noche 12ml",
+        "discount_price": "5.99"
+      }
+    ]
+  },
+  {
+    "name": "Gel de Afeitar Piel Sensible Aloe Vera",
+    "brand": "Babaria",
+    "category": "Geles y Espumas",
+    "variants": [
+      {
+        "id": "50044179",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044179.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Gel de Afeitar Piel Sensible Aloe Vera 200ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Contorno de Ojos Iluminador",
+    "brand": "Babaria",
+    "category": "Correctores",
+    "variants": [
+      {
+        "id": "50044212",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044212.jpg"
+        ],
+        "is_active": true,
+        "quantity": "15",
+        "description": "Contorno de Ojos Iluminador 15ml",
+        "discount_price": "20.71"
+      }
+    ]
+  },
+  {
+    "name": "Biotina y Coco Champ\u0026#250; Hidratante",
+    "brand": "Babaria",
+    "category": "Hidratantes",
+    "variants": [
+      {
+        "id": "50043975",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043975.jpg"
+        ],
+        "is_active": true,
+        "quantity": "700",
+        "description": "Biotina y Coco Champ\u0026#250; Hidratante 700ml",
+        "discount_price": "5.81"
+      }
+    ]
+  },
+  {
+    "name": "Color Capture B\u0026#225;lsamo Acondicionador",
+    "brand": "Babaria",
+    "category": "Protecci\u0026#243;n del color",
+    "variants": [
+      {
+        "id": "50043859",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043859.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Color Capture B\u0026#225;lsamo Acondicionador 200ml",
+        "discount_price": "4.2"
+      }
+    ]
+  },
+  {
+    "name": "Nutritive\u0026amp;Repair Mascarilla Intensiva Cabello Seco",
+    "brand": "Babaria",
+    "category": "Hidratantes y nutritivas",
+    "variants": [
+      {
+        "id": "50044387",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044387.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "Nutritive\u0026amp;Repair Mascarilla Intensiva Cabello Seco 400ml",
+        "discount_price": "7.59"
+      }
+    ]
+  },
+  {
+    "name": "Only Curls Mascarilla Intensiva Cabello Rizado",
+    "brand": "Babaria",
+    "category": "Hidratantes y nutritivas",
+    "variants": [
+      {
+        "id": "50044391",
+        "type": "ML",
+        "price": "3.89",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044391.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "Only Curls Mascarilla Intensiva Cabello Rizado 400ml",
+        "discount_price": "3.41"
+      }
+    ]
+  },
+  {
+    "name": "Ampollas Total Reset LOTE",
+    "brand": "Babaria",
+    "category": "Hidrataci\u0026#243;n y Nutrici\u0026#243;n",
+    "variants": [
+      {
+        "id": "50044166",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044166.jpg"
+        ],
+        "is_active": true,
+        "quantity": "5",
+        "description": "Ampollas Total Reset lote 5pz",
+        "discount_price": "6.5"
+      }
+    ]
+  },
+  {
+    "name": "Color Capture Spray Ultra Uv de fense",
+    "brand": "Babaria",
+    "category": "Protecci\u0026#243;n del color",
+    "variants": [
+      {
+        "id": "50044065",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044065.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "Color Capture Spray Ultra Uv de fense 150ml",
+        "discount_price": "4.49"
+      }
+    ]
+  },
+  {
+    "name": "Discipline Cera Modeadora Mate",
+    "brand": "Babaria",
+    "category": "Definici\u0026#243;n de peinado",
+    "variants": [
+      {
+        "id": "50043952",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043952.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Discipline Cera Modeadora Mate 100ml",
+        "discount_price": "12.93"
+      }
+    ]
+  },
+  {
+    "name": "Defense Protector T\u0026#233;rmico",
+    "brand": "Babaria",
+    "category": "Termo-protectores",
+    "variants": [
+      {
+        "id": "50043965",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043965.jpg"
+        ],
+        "is_active": true,
+        "quantity": "250",
+        "description": "Defense Protector T\u0026#233;rmico 250ml",
+        "discount_price": "51.4"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Roll-On Men",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50043919",
+        "type": "ML",
+        "price": "6.79",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043919.jpg"
+        ],
+        "is_active": true,
+        "quantity": "70",
+        "description": "desodorante Roll-On Men 70ml",
+        "discount_price": "5.66"
+      }
+    ]
+  },
+  {
+    "name": "Black Gold Desodorante",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50043928",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043928.jpg"
+        ],
+        "is_active": true,
+        "quantity": "250",
+        "description": "Black Gold desodorante 250ml",
+        "discount_price": "6.76"
+      }
+    ]
+  },
+  {
+    "name": "Active Xtrem Desodorante Pies",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50043933",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043933.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "Active Xtrem desodorante Pies 150ml",
+        "discount_price": "12.48"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Chocolate",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50043936",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50043936.jpg"
+        ],
+        "is_active": true,
+        "quantity": "250",
+        "description": "desodorante Chocolate 250ml",
+        "discount_price": "6.98"
+      }
+    ]
+  },
+  {
+    "name": "Protector Solar Spf50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50044425",
+        "type": "ML",
+        "price": "12.16",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044425.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Protector Solar Spf50 200ml",
+        "discount_price": "12.07"
+      }
+    ]
+  },
+  {
+    "name": "Leche Corporal Aloe Vera Spf50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50044426",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044426.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Leche Corporal Aloe Vera Spf50 200ml",
+        "discount_price": "20.24"
+      }
+    ]
+  },
+  {
+    "name": "Protector Solar Spray Aloe Vera Spf50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50044433",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044433.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Protector Solar Spray Aloe Vera Spf50 200ml",
+        "discount_price": "14.38"
+      }
+    ]
+  },
+  {
+    "name": "Leche Corporal Aloe Vera Spf20",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50044437",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044437.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Leche Corporal Aloe Vera Spf20 200ml",
+        "discount_price": "11.51"
+      }
+    ]
+  },
+  {
+    "name": "Gelatina Solar Bronceadora de Coco Spf30",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "169058",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/169058.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "SOLAR GELATINA COCO Y ZANAHORIA SPF30 300 ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Gelatina Bronceadora Zanahoria y Vitamina E Spf15",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50044446",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50044446.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Gelatina Bronceadora Zanahoria y Vitamina E Spf15\u0026#160; 300ml",
+        "discount_price": "11.96"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Protector Solar con Coco en Spray SPF50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50090792",
+        "type": "ML",
+        "price": "11.33",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50090792.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Aceite Protector Solar con Coco en Spray SPF50 200ml",
+        "discount_price": "10.13"
+      }
+    ]
+  },
+  {
+    "name": "Toallitas Desmaquillantes de Aloe Vera",
+    "brand": "Babaria",
+    "category": "Desmaquillantes rostro",
+    "variants": [
+      {
+        "id": "50097796",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097796.jpg"
+        ],
+        "is_active": true,
+        "quantity": "25",
+        "description": "Toallitas Desmaquillantes de Aloe Vera 25 Unidades",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Spray Doble Efecto",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50097836",
+        "type": "ML",
+        "price": "2.57",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097836.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "desodorante Spray Doble Efecto 200ml",
+        "discount_price": "2.48"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Spray Invisible",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50097837",
+        "type": "ML",
+        "price": "2.46",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097837.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "desodorante Spray Invisible 200ml",
+        "discount_price": "2.37"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Spray Protect+",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50097838",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097838.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "desodorante Spray Protect+ 200ml",
+        "discount_price": "5.66"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Spray Cero",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50097839",
+        "type": "ML",
+        "price": "2.23",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097839.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "desodorante Spray Cero 200ml",
+        "discount_price": "1.71"
+      }
+    ]
+  },
+  {
+    "name": "Only Curls Champ\u0026#250; Control Cabello Rizado",
+    "brand": "Babaria",
+    "category": "Definici\u0026#243;n de rizos",
+    "variants": [
+      {
+        "id": "50097841",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097841.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "Only Curls Champ\u0026#250; Control Cabello Rizado 500ml",
+        "discount_price": "7.1"
+      }
+    ]
+  },
+  {
+    "name": "Gel Ph Neutro de Aloe Vera",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "64563",
+        "type": "ML",
+        "price": "2.16",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/64563.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Gel Ph Neutro de Aloe Vera 300ml",
+        "discount_price": "1.87"
+      }
+    ]
+  },
+  {
+    "name": "Espuma de Afeitar de Aloe Vera para Piel Sensible",
+    "brand": "Babaria",
+    "category": "Geles y Espumas",
+    "variants": [
+      {
+        "id": "63482",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/63482.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Espuma de Afeitar de Aloe Vera para Piel Sensible 300ml",
+        "discount_price": "7.14"
+      }
+    ]
+  },
+  {
+    "name": "Nutritive\u0026amp;Repair Champ\u0026#250; Reset",
+    "brand": "Babaria",
+    "category": "Hidratantes",
+    "variants": [
+      {
+        "id": "50153925",
+        "type": "ML",
+        "price": "8.18",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153925.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "Nutritive\u0026amp;Repair Champ\u0026#250; Reset 500ml",
+        "discount_price": "6.82"
+      }
+    ]
+  },
+  {
+    "name": "Champ\u0026#250; Protector Cabello Te\u0026#241;ido",
+    "brand": "Babaria",
+    "category": "Protecci\u0026#243;n del color",
+    "variants": [
+      {
+        "id": "50153924",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153924.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "Champ\u0026#250; Protector Cabello Te\u0026#241;ido 500ml",
+        "discount_price": "4.03"
+      }
+    ]
+  },
+  {
+    "name": "Acondicionador Nutritivo Expr\u0026#233;s",
+    "brand": "Babaria",
+    "category": "Hidratantes y nutritivos",
+    "variants": [
+      {
+        "id": "50153355",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153355.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Acondicionador Nutritivo Expr\u0026#233;s 200ml",
+        "discount_price": "4.2"
+      }
+    ]
+  },
+  {
+    "name": "Nutritive\u0026amp;Repair Spray Bioactivo Multifunci\u0026#243;n",
+    "brand": "Babaria",
+    "category": "Hidrataci\u0026#243;n y Nutrici\u0026#243;n",
+    "variants": [
+      {
+        "id": "50153927",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153927.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "Nutritive\u0026amp;Repair Spray Bioactivo Multifunci\u0026#243;n 150ml",
+        "discount_price": "4.49"
+      }
+    ]
+  },
+  {
+    "name": "Loci\u0026#243;n Refrescante Anticaspa",
+    "brand": "Babaria",
+    "category": "Anticaspa",
+    "variants": [
+      {
+        "id": "50153926",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153926.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "Loci\u0026#243;n Refrescante Anticaspa 150ml",
+        "discount_price": "7.1"
+      }
+    ]
+  },
+  {
+    "name": "Vitamin C 2 Tratamiento de Choque LOTE",
+    "brand": "Babaria",
+    "category": "Lotes y sets",
+    "variants": [
+      {
+        "id": "50153942",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153942.jpg"
+        ],
+        "is_active": true,
+        "quantity": "7",
+        "description": "Vitamin C 2 Tratamiento de Choque lote 7 piezas",
+        "discount_price": "18.99"
+      }
+    ]
+  },
+  {
+    "name": "Aloe Vera Cuidado Facial LOTE",
+    "brand": "Babaria",
+    "category": "Lotes y sets",
+    "variants": [
+      {
+        "id": "50153946",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153946.jpg"
+        ],
+        "is_active": true,
+        "quantity": "4",
+        "description": "Aloe Vera Cuidado Facial lote 4 piezas",
+        "discount_price": "24.29"
+      }
+    ]
+  },
+  {
+    "name": "Aloe Vera Cuidado Corporal LOTE",
+    "brand": "Babaria",
+    "category": "Lotes y sets",
+    "variants": [
+      {
+        "id": "50153947",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153947.jpg"
+        ],
+        "is_active": true,
+        "quantity": "3",
+        "description": "Aloe Vera Cuidado Corporal lote 3 piezas",
+        "discount_price": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Vit E+ Body Milk",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "50153977",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153977.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Vit E+ Body Milk 100 ml",
+        "discount_price": "5.2"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Corporal Antiestr\u0026#237;as con Rosa Mosqueta",
+    "brand": "Babaria",
+    "category": "Antiestr\u0026#237;as",
+    "variants": [
+      {
+        "id": "50153981",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153981.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Aceite Corporal Antiestr\u0026#237;as con Rosa Mosqueta 300 ml",
+        "discount_price": "10.68"
+      }
+    ]
+  },
+  {
+    "name": "Champ\u0026#250; Energizante SOS Ca\u0026#237;da",
+    "brand": "Babaria",
+    "category": "Antica\u0026#237;da",
+    "variants": [
+      {
+        "id": "50153986",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153986.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "Champ\u0026#250; Energizante SOS Ca\u0026#237;da 500 ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Hydra\u0026amp;Nutritiva Champ\u0026#250; Esencial",
+    "brand": "Babaria",
+    "category": "Hidratantes",
+    "variants": [
+      {
+        "id": "50153975",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153975.jpg"
+        ],
+        "is_active": true,
+        "quantity": "500",
+        "description": "Hydra\u0026amp;Nutritiva Champ\u0026#250; Esencial 500ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Hydra\u0026amp;Nutritiva B\u0026#225;lsamo Acondicionador",
+    "brand": "Babaria",
+    "category": "Hidratantes y nutritivos",
+    "variants": [
+      {
+        "id": "50153969",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153969.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Hydra\u0026amp;Nutritiva B\u0026#225;lsamo Acondicionador 200ml",
+        "discount_price": "4.2"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Roll-On Aloe Vera",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50153955",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153955.jpg"
+        ],
+        "is_active": true,
+        "quantity": "75",
+        "description": "desodorante Roll-On Aloe Vera 75 ml",
+        "discount_price": "5.79"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Protector Solar SPF20",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50153982",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153982.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Aceite Protector Solar SPF20 200 ml",
+        "discount_price": "10.9"
+      }
+    ]
+  },
+  {
+    "name": "After Sun B\u0026#225;lsamo Calmante y Refrescante",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50153983",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153983.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "After Sun B\u0026#225;lsamo Calmante y Refrescante 100 ml",
+        "discount_price": "7.1"
+      }
+    ]
+  },
+  {
+    "name": "Tropical Protector Solar SPF30",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "50153985",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50153985.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Tropical Protector Solar SPF30 100 ml",
+        "discount_price": "13.08"
+      }
+    ]
+  },
+  {
+    "name": "Baby Cuidado Corporal LOTE",
+    "brand": "Babaria",
+    "category": "Lotes Beb\u0026#233;s y Ni\u0026#241;os",
+    "variants": [
+      {
+        "id": "63775",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/63775.jpg"
+        ],
+        "is_active": true,
+        "quantity": "4",
+        "description": "BABY NECESER",
+        "discount_price": "17.69"
+      }
+    ]
+  },
+  {
+    "name": "Kids Bruma Protectora SPF50",
+    "brand": "Babaria",
+    "category": "Protectores solares",
+    "variants": [
+      {
+        "id": "102482",
+        "type": "ML",
+        "price": "11.43",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102482.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Kids Bruma Protectora SPF50 200 ml",
+        "discount_price": "11.33"
+      }
+    ]
+  },
+  {
+    "name": "Toallitas Desmaquillantes con Aloe Vera",
+    "brand": "Babaria",
+    "category": "Desmaquillantes rostro",
+    "variants": [
+      {
+        "id": "62525",
+        "type": "U",
+        "price": "3.7",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/62525.jpg"
+        ],
+        "is_active": true,
+        "quantity": "20",
+        "description": "Toallitas Desmaquillantes con Aloe Vera 20 unidades",
+        "discount_price": "3.68"
+      }
+    ]
+  },
+  {
+    "name": "9 Effects Contorno de Ojos y Labios con Rosa Mosqueta",
+    "brand": "Babaria",
+    "category": "Antiedad y Antiarrugas",
+    "variants": [
+      {
+        "id": "90295",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/90295.jpg"
+        ],
+        "is_active": true,
+        "quantity": "15",
+        "description": "9 Effects Contorno de Ojos y Labios con Rosa Mosqueta 15 ml",
+        "discount_price": "17.69"
+      }
+    ]
+  },
+  {
+    "name": "Crema Facial Antiedad Noche de Aceite de Oliva",
+    "brand": "Babaria",
+    "category": "Antiedad y Antiarrugas",
+    "variants": [
+      {
+        "id": "79615",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/79615.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "Crema Facial Antiedad Noche de Aceite de Oliva 50ml",
+        "discount_price": "11.74"
+      }
+    ]
+  },
+  {
+    "name": "Crema Regeneradora Antiarrugas de Rosa Mosqueta",
+    "brand": "Babaria",
+    "category": "Antiedad y Antiarrugas",
+    "variants": [
+      {
+        "id": "90294",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/90294.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "Crema Regeneradora Antiarrugas de Rosa Mosqueta 50ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Arg\u0026#225;n \u0026amp; Romero Aceite Corporal",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "63027",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/63027.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Arg\u0026#225;n \u0026amp; Romero Aceite Corporal 300 ml",
+        "discount_price": "7.36"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Corporal Hidratante Antiestr\u0026#237;as Rosa Mosqueta",
+    "brand": "Babaria",
+    "category": "Antiestr\u0026#237;as",
+    "variants": [
+      {
+        "id": "63026",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/63026.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Aceite Corporal Hidratante Antiestr\u0026#237;as de Rosa Mosqueta 300ml",
+        "discount_price": "6.5"
+      }
+    ]
+  },
+  {
+    "name": "Gel para Pies Efecto Fr\u0026#237;o",
+    "brand": "Babaria",
+    "category": "Piernas",
+    "variants": [
+      {
+        "id": "63971",
+        "type": "ML",
+        "price": "1.99",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/63971.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "Gel para Pies Efecto Fr\u0026#237;o 150ml",
+        "discount_price": "1.84"
+      }
+    ]
+  },
+  {
+    "name": "Gel de Ba\u0026#241;o Tonificante Aloe",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "68578",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/68578.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Gel de Ba\u0026#241;o Tonificante Aloe 200 ml",
+        "discount_price": "2.53"
+      }
+    ]
+  },
+  {
+    "name": "Talco Desodorante Pies Aloe Vera",
+    "brand": "Babaria",
+    "category": "Talco",
+    "variants": [
+      {
+        "id": "79960",
+        "type": "ML",
+        "price": "2.29",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/79960.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Talco desodorante Pies Aloe Vera 100 ml",
+        "discount_price": "2.19"
+      }
+    ]
+  },
+  {
+    "name": "Quitaesmalte de Acetona",
+    "brand": "Babaria",
+    "category": "Quitaesmaltes",
+    "variants": [
+      {
+        "id": "88064",
+        "type": "ML",
+        "price": "1.99",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/88064.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Quitaesmalte de Acetona 200ml",
+        "discount_price": "1.54"
+      }
+    ]
+  },
+  {
+    "name": "Quitaesmalte de U\u0026#241;as",
+    "brand": "Babaria",
+    "category": "Quitaesmaltes",
+    "variants": [
+      {
+        "id": "62541",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/62541.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Quitaesmalte de U\u0026#241;as 200 ml",
+        "discount_price": "3.39"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Protector Solar SPF10",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102487",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102487.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Aceite Protector Solar SPF10 200 ml",
+        "discount_price": "10.68"
+      }
+    ]
+  },
+  {
+    "name": "Leche Protectora Solar con Aloe Vera SPF50",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102495",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102495.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Leche Protectora Solar con Aloe Vera SPF50 100ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Protector Solar SPF50+ Spray",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102484",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102484.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Protector Solar SPF50+ Spray 200 ml",
+        "discount_price": "19.17"
+      }
+    ]
+  },
+  {
+    "name": "Leche Protectora Solar Aloe SPF15",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102488",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102488.jpg"
+        ],
+        "is_active": true,
+        "quantity": "200",
+        "description": "Leche Protectora Solar Aloe SPF15 200 ml",
+        "discount_price": "10.71"
+      }
+    ]
+  },
+  {
+    "name": "Protector Solar de Aloe Vera Spf25",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102489",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102489.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Protector Solar de Aloe Vera Spf25 300ml",
+        "discount_price": "12.4"
+      }
+    ]
+  },
+  {
+    "name": "Leche Protectora Solar con Aloe Vera SPF25",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102502",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102502.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Leche Protectora Solar con Aloe Vera SPF25 300ml",
+        "discount_price": "12.03"
+      }
+    ]
+  },
+  {
+    "name": "Protector Solar Capilar Aloe",
+    "brand": "Babaria",
+    "category": "Capilares",
+    "variants": [
+      {
+        "id": "101032",
+        "type": "ML",
+        "price": "3.54",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/101032.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Protector Solar Capilar Aloe 100 ml",
+        "discount_price": "3.22"
+      }
+    ]
+  },
+  {
+    "name": "Gel de Almendras",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "99517",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/99517.jpg"
+        ],
+        "is_active": true,
+        "quantity": "600",
+        "description": "Gel de Almendras 600ml",
+        "discount_price": "3.85"
+      }
+    ]
+  },
+  {
+    "name": "Rosa Mosqueta Crema Nutritiva Manos",
+    "brand": "Babaria",
+    "category": "Manos",
+    "variants": [
+      {
+        "id": "74535",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/74535.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "ROSA MOSQUETA crema nutritiva manos 100 ml",
+        "discount_price": "6.88"
+      }
+    ]
+  },
+  {
+    "name": "Baby Leche Corporal Hidratante Aloe",
+    "brand": "Babaria",
+    "category": "Cremas para beb\u0026#233;s",
+    "variants": [
+      {
+        "id": "62528",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/62528.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "Baby Leche Corporal Hidratante Aloe 400 ml",
+        "discount_price": "9.67"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Almendras Dulces Gel de Ba\u0026#241;o Pieles Muy Secas",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "64387",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/64387.jpg"
+        ],
+        "is_active": true,
+        "quantity": "750",
+        "description": "Aceite Almendras Dulces Gel de Ba\u0026#241;o Pieles Muy Secas 750 ml",
+        "discount_price": "2.65"
+      }
+    ]
+  },
+  {
+    "name": "Aceite de Oliva Tratamiento Facial LOTE",
+    "brand": "Babaria",
+    "category": "Lotes y sets",
+    "variants": [
+      {
+        "id": "95613",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/95613.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "ACEITE DE OLIVA CREMA FACIAL lote",
+        "discount_price": "14.14"
+      }
+    ]
+  },
+  {
+    "name": "Bio Crema Contorno de Ojos Antiedad",
+    "brand": "Babaria",
+    "category": "Antiedad y Reafirmantes",
+    "variants": [
+      {
+        "id": "122236",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/122236.jpg",
+          "https://i1.perfumesclub.com/mklgrande/122236-2.jpg"
+        ],
+        "is_active": true,
+        "quantity": "15",
+        "description": "BIO crema contorno antiedad ojos 15 ml",
+        "discount_price": "7.94"
+      }
+    ]
+  },
+  {
+    "name": "B\u0026#225;lsamo After-sun Aloe",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "101152",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/101152.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "B\u0026#225;lsamo After-sun Aloe 300 ml",
+        "discount_price": "20.36"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Solar Bronceador Coco SPF20",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102491",
+        "type": "ML",
+        "price": "5.03",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102491.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Aceite Solar Bronceador Coco SPF20 100 ml",
+        "discount_price": "3.92"
+      }
+    ]
+  },
+  {
+    "name": "Leche Solar Protectora SPF30",
+    "brand": "Babaria",
+    "category": "Corporales",
+    "variants": [
+      {
+        "id": "102494",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/102494.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Leche Solar Protectora SPF30 100 ml",
+        "discount_price": "9.14"
+      }
+    ]
+  },
+  {
+    "name": "Aloe Crema Corporal",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "50361649",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50361649.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "Aloe Crema Corporal 400 ml",
+        "discount_price": "10.02"
+      }
+    ]
+  },
+  {
+    "name": "Men Gel After-shave",
+    "brand": "Babaria",
+    "category": "After-shave",
+    "variants": [
+      {
+        "id": "78624",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/78624.jpg"
+        ],
+        "is_active": true,
+        "quantity": "150",
+        "description": "BABARIA MEN aloe vera after-shave gel 3 efectos 150 ml",
+        "discount_price": "11.16"
+      }
+    ]
+  },
+  {
+    "name": "Champ\u0026#250; Vinagre",
+    "brand": "Babaria",
+    "category": "Hidratantes",
+    "variants": [
+      {
+        "id": "81776",
+        "type": "ML",
+        "price": "2.82",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/81776.jpg"
+        ],
+        "is_active": true,
+        "quantity": "600",
+        "description": "Champ\u0026#250; Vinagre 600 ml",
+        "discount_price": "2.54"
+      }
+    ]
+  },
+  {
+    "name": "Mascarilla Capilar de Cebolla",
+    "brand": "Babaria",
+    "category": "Protecci\u0026#243;n del color",
+    "variants": [
+      {
+        "id": "81777",
+        "type": "ML",
+        "price": "2.83",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/81777.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "Mascarilla Capilar de Cebolla 400 ml",
+        "discount_price": "2.54"
+      }
+    ]
+  },
+  {
+    "name": "Men Aloe Vera Espuma de Afeitar",
+    "brand": "Babaria",
+    "category": "Geles y Espumas",
+    "variants": [
+      {
+        "id": "68580",
+        "type": "ML",
+        "price": "2.6",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/68580.jpg"
+        ],
+        "is_active": true,
+        "quantity": "100",
+        "description": "Men Aloe Vera Espuma de Afeitar 100 ml",
+        "discount_price": "2.29"
+      }
+    ]
+  },
+  {
+    "name": "Aceite Almendras Dulces Aceite Corporal Piel Seca",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "74521",
+        "type": "ML",
+        "price": "3.24",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/74521.jpg"
+        ],
+        "is_active": true,
+        "quantity": "300",
+        "description": "Aceite Almendras Dulces Aceite Corporal Piel Seca  300ml",
+        "discount_price": "3.02"
+      }
+    ]
+  },
+  {
+    "name": "Microbiota Balance Ampollas Revitalizantes",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "50397071",
+        "type": "U",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50397071.jpg"
+        ],
+        "is_active": true,
+        "quantity": "2",
+        "description": "Microbiota Balance Ampollas Revitalizantes 2 x 5 ml",
+        "discount_price": "15.07"
+      }
+    ]
+  },
+  {
+    "name": "Microbiota Balance S\u0026#233;rum",
+    "brand": "Babaria",
+    "category": "Hidratantes y Nutritivos",
+    "variants": [
+      {
+        "id": "50397072",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50397072.jpg"
+        ],
+        "is_active": true,
+        "quantity": "30",
+        "description": "Microbiota Balance S\u0026#233;rum 30 ml",
+        "discount_price": "9.59"
+      }
+    ]
+  },
+  {
+    "name": "Gel de Ducha Aloe Vera BABARIA",
+    "brand": "Babaria",
+    "category": "Geles de ducha",
+    "variants": [
+      {
+        "id": "64388",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/64388.jpg"
+        ],
+        "is_active": true,
+        "quantity": "600",
+        "description": "Gel de Ducha Aloe Vera 600 ml",
+        "discount_price": "2.65"
+      }
+    ]
+  },
+  {
+    "name": "Desodorante Roll-On Doble Efecto",
+    "brand": "Babaria",
+    "category": "Desodorantes",
+    "variants": [
+      {
+        "id": "50097840",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/50097840.jpg"
+        ],
+        "is_active": true,
+        "quantity": "50",
+        "description": "desodorante Roll-On Doble Efecto 50ml",
+        "discount_price": "8.74"
+      }
+    ]
+  },
+  {
+    "name": "Champ\u0026#250; Ni\u0026#241;os Manzanilla",
+    "brand": "Babaria",
+    "category": "Cuidado del cabello ni\u0026#241;os",
+    "variants": [
+      {
+        "id": "63101",
+        "type": "ML",
+        "price": "0",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/63101.jpg"
+        ],
+        "is_active": true,
+        "quantity": "600",
+        "description": "Champ\u0026#250; Ni\u0026#241;os Manzanilla 600 ml",
+        "discount_price": "2.94"
+      }
+    ]
+  },
+  {
+    "name": "Vitamin B3+ Crema Corporal",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "130305",
+        "type": "ML",
+        "price": "3.77",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/130305.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "VITAMIN B3+ body cream 100% vegan 400 ml",
+        "discount_price": "3.46"
+      }
+    ]
+  },
+  {
+    "name": "Vitamin C+ Crema Corporal",
+    "brand": "Babaria",
+    "category": "Hidratantes corporales",
+    "variants": [
+      {
+        "id": "130303",
+        "type": "ML",
+        "price": "3.87",
+        "photos": [
+          "https://i1.perfumesclub.com/mklgrande/130303.jpg"
+        ],
+        "is_active": true,
+        "quantity": "400",
+        "description": "VITAMIN C+ body cream 100% vegan 400 ml",
+        "discount_price": "3.46"
+      }
+    ]
+  }
+]

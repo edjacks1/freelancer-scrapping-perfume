@@ -14,5 +14,7 @@ require (
 	github.com/gobwas/ws v1.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
+	github.com/sirupsen/logrus v1.9.3
 	golang.org/x/sys v0.26.0 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
