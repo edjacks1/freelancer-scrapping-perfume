@@ -59,6 +59,13 @@ func searchInClubPage() {
 		"https://www.perfumesclub.com/es/skin-generics/m/",
 		"https://www.perfumesclub.com/es/axe/m/",
 		"https://www.perfumesclub.com/es/cacharel/m/",
+		// Separado
+		"https://www.perfumesclub.com/es/babaria/m/",
+		"https://www.perfumesclub.com/es/essence/m/",
+		"https://www.perfumesclub.com/es/colgate/m/",
+		"https://www.perfumesclub.com/es/st.-moriz/m/",
+		"https://www.perfumesclub.com/es/bondi-sands/m/",
+		"https://www.perfumesclub.com/es/aqc-fragrances/m/",
 	})
 
 	// Obtener productos

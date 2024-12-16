@@ -99,6 +99,7 @@ func (s *Service) ValidateProducts() {
 				if len(variant.Photos) == 0 {
 					fmt.Printf("El producto %s no tiene fotos\n", product.Name)
 				}
+				fmt.Printf("%s - %s\n", variant.Type, variant.Quantity)
 			}
 		} else {
 			fmt.Printf("El producto %s no tiene variantes\n", product.Name)
