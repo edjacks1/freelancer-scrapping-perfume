@@ -2,6 +2,7 @@ package service
 
 import (
 	"fmt"
+	"html"
 	"perfume/dao"
 	"regexp"
 	"slices"
@@ -67,25 +68,33 @@ func (s *Service) ValidateProducts() {
 		// Verificar si tiene nombre
 		if len(product.Name) == 0 {
 			fmt.Printf("El producto %d no tiene nombre\n", index)
+		} else {
+			s.products[index].Name = html.UnescapeString(product.Name)
 		}
 		// Verificar que tenga marca
 		if product.Brand == "" {
 			fmt.Printf("El producto %s no tiene marca\n", product.Name)
+		} else {
+			s.products[index].Brand = html.UnescapeString(product.Brand)
 		}
 		// Verificar que tenga categoria
 		if product.Category == "" {
 			fmt.Printf("El producto %s no tiene categoria\n", product.Name)
+		} else {
+			s.products[index].Category = html.UnescapeString(product.Category)
 		}
 		// Verificar que el producto tenga variantes
 		if len(product.Variants) > 0 {
 			// Iterar variantes
 			for vIndex, variant := range product.Variants {
+				// Actualizar descripcion
+				s.products[index].Variants[vIndex].Description = html.UnescapeString(variant.Description)
 				// Verificar que tenga precio
-				if variant.DiscountPrice == "" {
+				if variant.DiscountPrice == "" || variant.DiscountPrice == "0" {
 					fmt.Printf("El producto %s no tiene precio\n", product.Name)
 				} else {
 					// Verificar si existe un precio descuento
-					if variant.Price == "" {
+					if variant.Price == "" || variant.Price == "0" {
 						s.products[index].Variants[vIndex].Price = variant.DiscountPrice
 					}
 				}
@@ -105,6 +114,7 @@ func (s *Service) ValidateProducts() {
 					fmt.Printf("El producto %s no tiene tipo de medición\n", product.Name)
 				} else {
 					variant.Type = strings.ToLower(variant.Type)
+					s.products[index].Variants[vIndex].Type = variant.Type
 					// Verificar si el tipo esta dentro de los permitidos
 					if !slices.Contains([]string{"ml", "u", "g"}, variant.Type) {
 						fmt.Printf("El producto %s tiene un tipo de medición desconocido (%s)\n", product.Name, variant.Type)

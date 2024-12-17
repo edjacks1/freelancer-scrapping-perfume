@@ -8,5 +8,7 @@ func main() {
 	// Cargar productos
 	if err := svc.LoadFile(); err == nil {
 		svc.ValidateProducts()
+		// Exportar
+		svc.ExportProductsToCsv()
 	}
 }

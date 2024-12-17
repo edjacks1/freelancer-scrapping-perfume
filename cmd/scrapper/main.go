@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"perfume/service"
 	"time"
 
@@ -26,7 +27,7 @@ func main() {
 	// Fecha de fin.
 	endDate := time.Now()
 	// Mostrar mensaje
-	svc.CalculateDuration(startDate, endDate)
+	fmt.Println(svc.CalculateDuration(startDate, endDate))
 }
 
 func searchInDruniPage() {
