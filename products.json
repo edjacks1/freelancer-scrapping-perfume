@@ -2933,7 +2933,7 @@
     "variants": [
       {
         "id": "50156360",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156360.jpg"
@@ -2946,7 +2946,7 @@
       },
       {
         "id": "50156366",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156366.jpg"
@@ -2966,7 +2966,7 @@
     "variants": [
       {
         "id": "50156362",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156362.jpg"
@@ -2979,7 +2979,7 @@
       },
       {
         "id": "50156363",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156363.jpg"
@@ -2992,7 +2992,7 @@
       },
       {
         "id": "50156365",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156365.jpg"
@@ -15977,7 +15977,7 @@
           "https://i1.perfumesclub.com/grande/130438-2.jpg"
         ],
         "is_active": true,
-        "quantity": "ampollas",
+        "quantity": "7",
         "original": "ampollas x 7 u",
         "description": "Q10+ VITAMINA C anti-arrugas+energizante ampollas x 7 u",
         "discount_price": "7.84"
@@ -17297,14 +17297,14 @@
     "variants": [
       {
         "id": "193059",
-        "type": "",
+        "type": "U",
         "price": "29.95",
         "photos": [
           "https://i1.perfumesclub.com/grande/193059.jpg",
           "https://i1.perfumesclub.com/grande/193059-2.jpg"
         ],
         "is_active": true,
-        "quantity": "",
+        "quantity": "1",
         "original": "",
         "description": "TETRAPEPTIDE contorno ojos antiedad 30%",
         "discount_price": "17.94"
@@ -20540,7 +20540,7 @@
     "variants": [
       {
         "id": "50043827",
-        "type": "uds",
+        "type": "U",
         "price": "7.1",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50043827.jpg"
@@ -20580,7 +20580,7 @@
     "variants": [
       {
         "id": "50044057",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50044057.jpg"
@@ -21040,7 +21040,7 @@
     "variants": [
       {
         "id": "50097796",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50097796.jpg"
@@ -21294,26 +21294,6 @@
     ]
   },
   {
-    "name": "Aloe Vera Cuidado Corporal LOTE",
-    "brand": "Babaria",
-    "category": "Cosm\u0026#233;tica Facial/Lotes y sets",
-    "variants": [
-      {
-        "id": "50153947",
-        "type": "piezas",
-        "price": "0",
-        "photos": [
-          "https://i1.perfumesclub.com/mklgrande/50153947.jpg"
-        ],
-        "is_active": true,
-        "quantity": "3",
-        "original": "3 piezas",
-        "description": "Aloe Vera Cuidado Corporal lote 3 piezas",
-        "discount_price": "15.09"
-      }
-    ]
-  },
-  {
     "name": "Champ\u0026#250; Energizante SOS Ca\u0026#237;da",
     "brand": "Babaria",
     "category": "Cabello/Champ\u0026#250;s/Antica\u0026#237;da",
@@ -21400,7 +21380,7 @@
     "variants": [
       {
         "id": "62525",
-        "type": "uds",
+        "type": "U",
         "price": "3.7",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/62525.jpg"
@@ -21841,7 +21821,7 @@
     "variants": [
       {
         "id": "50397071",
-        "type": "uds",
+        "type": "U",
         "price": "0",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50397071.jpg"

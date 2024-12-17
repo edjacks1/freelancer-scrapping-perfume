@@ -2,8 +2,9 @@ package service
 
 import (
 	"fmt"
-	"html"
 	"perfume/dao"
+	"regexp"
+	"slices"
 	"strings"
 )
 
@@ -61,12 +62,8 @@ func (s Service) GetProductVariantType(quantity string) (string, string) {
 }
 
 func (s *Service) ValidateProducts() {
-	sizes := []string{}
-	categories := []string{}
 	// Iterar productos
 	for index, product := range s.products {
-		// Agregar categorias
-		categories = append(categories, product.Category)
 		// Verificar si tiene nombre
 		if len(product.Name) == 0 {
 			fmt.Printf("El producto %d no tiene nombre\n", index)
@@ -95,30 +92,31 @@ func (s *Service) ValidateProducts() {
 				// Verificar que tenga cantidad
 				if variant.Quantity == "" {
 					fmt.Printf("El producto %s no tiene cantidad\n", product.Name)
+				} else {
+					// Remplazar comas por puntos
+					variant.Quantity = strings.ReplaceAll(variant.Quantity, ",", ".")
+					// Verificar si es un dato valido
+					if !regexp.MustCompile(`^\d+(\.\d+)?$`).MatchString(variant.Quantity) {
+						fmt.Printf("El producto %s no tiene formato de cantidad incorrecto %s\n", product.Name, variant.Quantity)
+					}
 				}
-				// Verificar si tiene tipo
+				// Verificar que el tipo sea valido
 				if variant.Type == "" {
-					fmt.Printf("El producto %s no tiene tipo\n", product.Name)
+					fmt.Printf("El producto %s no tiene tipo de medición\n", product.Name)
+				} else {
+					variant.Type = strings.ToLower(variant.Type)
+					// Verificar si el tipo esta dentro de los permitidos
+					if !slices.Contains([]string{"ml", "u", "g"}, variant.Type) {
+						fmt.Printf("El producto %s tiene un tipo de medición desconocido (%s)\n", product.Name, variant.Type)
+					}
 				}
 				// Verificar si tiene fotos
 				if len(variant.Photos) == 0 {
 					fmt.Printf("El producto %s no tiene fotos\n", product.Name)
 				}
-				// Adjuntar tamaños
-				sizes = append(sizes, strings.ToLower(fmt.Sprintf("%s%s", variant.Quantity, variant.Type)))
 			}
 		} else {
 			fmt.Printf("El producto %s no tiene variantes\n", product.Name)
 		}
-	}
-	if false {
-		// Quitar duplicados
-		for _, category := range s.RemoveDuplicates(categories) {
-			fmt.Println(html.UnescapeString(category))
-		}
-	}
-	// Iterar tamalos
-	for _, size := range s.RemoveDuplicates(sizes) {
-		fmt.Println(size)
 	}
 }
