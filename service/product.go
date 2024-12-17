@@ -2,6 +2,7 @@ package service
 
 import (
 	"fmt"
+	"html"
 	"perfume/dao"
 	"strings"
 )
@@ -37,31 +38,35 @@ func (s Service) ShowTotalProducts() {
 	}
 }
 
-func (s Service) GetProductVariantType(quantity string) (string, dao.ProductVariantType) {
+func (s Service) GetProductVariantType(quantity string) (string, string) {
 	// Remplazar caracteres
 	quantity = strings.ReplaceAll(s.RemoveSpaces(quantity), "|", "")
 	// Verificar si hay tamaño
 	if len(quantity) > 0 {
 		// Verificar si es unidad
 		if strings.ToLower(quantity)[len(quantity)-1] == 'u' {
-			return quantity[:len(quantity)-1], dao.ProductVariantUnitType
+			return quantity[:len(quantity)-1], string(dao.ProductVariantUnitType)
 		}
 		// Verificar si el tamaño es mayor a dos
 		if len(quantity) > 2 {
 			runes := []rune(strings.ToLower(quantity))
 			// Verificar si es mililitro
 			if string(runes[len(runes)-2:]) == "ml" {
-				return quantity[:len(quantity)-2], dao.ProductVariantMlType
+				return quantity[:len(quantity)-2], string(dao.ProductVariantMlType)
 			}
 		}
 	}
 	// Return
-	return "1", dao.ProductVariantUnitType
+	return "1", string(dao.ProductVariantUnitType)
 }
 
 func (s *Service) ValidateProducts() {
+	sizes := []string{}
+	categories := []string{}
 	// Iterar productos
 	for index, product := range s.products {
+		// Agregar categorias
+		categories = append(categories, product.Category)
 		// Verificar si tiene nombre
 		if len(product.Name) == 0 {
 			fmt.Printf("El producto %d no tiene nombre\n", index)
@@ -99,10 +104,21 @@ func (s *Service) ValidateProducts() {
 				if len(variant.Photos) == 0 {
 					fmt.Printf("El producto %s no tiene fotos\n", product.Name)
 				}
-				fmt.Printf("%s - %s\n", variant.Type, variant.Quantity)
+				// Adjuntar tamaños
+				sizes = append(sizes, strings.ToLower(fmt.Sprintf("%s%s", variant.Quantity, variant.Type)))
 			}
 		} else {
 			fmt.Printf("El producto %s no tiene variantes\n", product.Name)
 		}
+	}
+	if false {
+		// Quitar duplicados
+		for _, category := range s.RemoveDuplicates(categories) {
+			fmt.Println(html.UnescapeString(category))
+		}
+	}
+	// Iterar tamalos
+	for _, size := range s.RemoveDuplicates(sizes) {
+		fmt.Println(size)
 	}
 }

@@ -2,7 +2,6 @@ package pages_club
 
 import (
 	"fmt"
-	"time"
 
 	"github.com/chromedp/chromedp"
 	"github.com/sirupsen/logrus"
@@ -16,10 +15,6 @@ func (p Page) MassiveSearch(urls []string) {
 }
 
 func (p Page) GetList(url string, tries int) {
-	// Si es el primer intento esperar 5 segundos
-	if tries == 0 {
-		time.Sleep(5 * time.Second)
-	}
 	// Mostrar log
 	p.logger.WithFields(logrus.Fields{"url": url}).Debug("Iniciando scraping de la categoria.")
 	// Incializar

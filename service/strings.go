@@ -5,13 +5,13 @@ import (
 	"strings"
 )
 
-func (s Service) RemoveDuplicates(strings []string) []string {
+func (s Service) RemoveDuplicates(values []string) []string {
 	// Usar un mapa para almacenar los elementos únicos
 	unique := make(map[string]struct{})
 
 	// Iterar sobre el slice y agregar los elementos al mapa
-	for _, str := range strings {
-		unique[str] = struct{}{}
+	for _, str := range values {
+		unique[strings.ToLower(strings.TrimSpace(str))] = struct{}{}
 	}
 
 	// Crear un slice para los elementos únicos

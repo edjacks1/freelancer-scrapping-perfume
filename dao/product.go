@@ -15,14 +15,21 @@ type Product struct {
 }
 
 type ProductVariant struct {
-	ID            string             `json:"id"`
-	Type          ProductVariantType `json:"type"`
-	Price         string             `json:"price"`
-	Photos        []string           `json:"photos"`
-	IsActive      bool               `json:"is_active"`
-	Quantity      string             `json:"quantity"`
-	Description   string             `json:"description"`
-	DiscountPrice string             `json:"discount_price"`
+	ID            string               `json:"id"`
+	Type          string               `json:"type"`
+	Color         *ProductVariantColor `json:"color,omitempty"`
+	Price         string               `json:"price"`
+	Photos        []string             `json:"photos"`
+	IsActive      bool                 `json:"is_active"`
+	Quantity      string               `json:"quantity"`
+	Original      string               `json:"original"`
+	Description   string               `json:"description"`
+	DiscountPrice string               `json:"discount_price"`
+}
+
+type ProductVariantColor struct {
+	Hex  string `json:"hex"`
+	Name string `json:"name"`
 }
 
 // ck_05242721acc6d004dd5f213a784cc90cb00a4628

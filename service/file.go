@@ -33,7 +33,7 @@ func (s Service) CreateFile() {
 
 func (s *Service) LoadFile() error {
 	// Abrir el archivo JSON
-	file, err := os.Open("babaria.json")
+	file, err := os.Open("products.json")
 	// Obtener archivo
 	if err != nil {
 		return fmt.Errorf("error al abrir el archivo: %w", err)
