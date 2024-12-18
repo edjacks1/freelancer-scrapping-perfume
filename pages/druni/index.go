@@ -3,7 +3,7 @@ package pages_druni
 import (
 	"encoding/json"
 	"fmt"
-	"perfume/dao"
+	"perfume/domain/dao"
 	"perfume/service"
 
 	"github.com/chromedp/chromedp"

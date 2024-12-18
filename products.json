@@ -3097,7 +3097,7 @@
     "variants": [
       {
         "id": "50156360",
-        "type": "uds",
+        "type": "u",
         "price": "54.95",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156360.jpg"
@@ -3110,7 +3110,7 @@
       },
       {
         "id": "50156366",
-        "type": "uds",
+        "type": "u",
         "price": "36.95",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156366.jpg"
@@ -3130,7 +3130,7 @@
     "variants": [
       {
         "id": "50156362",
-        "type": "uds",
+        "type": "u",
         "price": "63.75",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156362.jpg"
@@ -3143,7 +3143,7 @@
       },
       {
         "id": "50156363",
-        "type": "uds",
+        "type": "u",
         "price": "45.05",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156363.jpg"
@@ -3156,7 +3156,7 @@
       },
       {
         "id": "50156365",
-        "type": "uds",
+        "type": "u",
         "price": "98.95",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50156365.jpg"
@@ -16254,14 +16254,14 @@
     "variants": [
       {
         "id": "130438",
-        "type": "u",
+        "type": "ampollas",
         "price": "12",
         "photos": [
           "https://i1.perfumesclub.com/grande/130438.jpg",
           "https://i1.perfumesclub.com/grande/130438-2.jpg"
         ],
         "is_active": true,
-        "quantity": "ampollas",
+        "quantity": "7",
         "original": "ampollas x 7 u",
         "description": "Q10+ VITAMINA C anti-arrugas+energizante ampollas x 7 u",
         "discount_price": "7.84"
@@ -17581,14 +17581,14 @@
     "variants": [
       {
         "id": "193059",
-        "type": "",
+        "type": "u",
         "price": "29.95",
         "photos": [
           "https://i1.perfumesclub.com/grande/193059.jpg",
           "https://i1.perfumesclub.com/grande/193059-2.jpg"
         ],
         "is_active": true,
-        "quantity": "",
+        "quantity": "1",
         "original": "",
         "description": "TETRAPEPTIDE contorno ojos antiedad 30%",
         "discount_price": "17.94"
@@ -20841,7 +20841,7 @@
     "variants": [
       {
         "id": "50043827",
-        "type": "uds",
+        "type": "u",
         "price": "7.1",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50043827.jpg"
@@ -20881,7 +20881,7 @@
     "variants": [
       {
         "id": "50044057",
-        "type": "uds",
+        "type": "u",
         "price": "5.69",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50044057.jpg"
@@ -21481,7 +21481,7 @@
     "variants": [
       {
         "id": "50097796",
-        "type": "uds",
+        "type": "u",
         "price": "15.07",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50097796.jpg"
@@ -21741,7 +21741,7 @@
     "variants": [
       {
         "id": "50153942",
-        "type": "piezas",
+        "type": "u",
         "price": "18.99",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50153942.jpg"
@@ -21761,7 +21761,7 @@
     "variants": [
       {
         "id": "50153946",
-        "type": "piezas",
+        "type": "u",
         "price": "24.29",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50153946.jpg"
@@ -21781,7 +21781,7 @@
     "variants": [
       {
         "id": "50153947",
-        "type": "piezas",
+        "type": "u",
         "price": "15.13",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50153947.jpg"
@@ -21921,7 +21921,7 @@
     "variants": [
       {
         "id": "50153958",
-        "type": "uds",
+        "type": "u",
         "price": "7.14",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50153958.jpg"
@@ -21941,7 +21941,7 @@
     "variants": [
       {
         "id": "50153959",
-        "type": "uds",
+        "type": "u",
         "price": "7.15",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50153959.jpg"
@@ -22054,7 +22054,7 @@
     "variants": [
       {
         "id": "63775",
-        "type": "piezas",
+        "type": "u",
         "price": "17.69",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/63775.jpg"
@@ -22094,7 +22094,7 @@
     "variants": [
       {
         "id": "62525",
-        "type": "uds",
+        "type": "u",
         "price": "3.7",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/62525.jpg"
@@ -22895,7 +22895,7 @@
     "variants": [
       {
         "id": "50397071",
-        "type": "uds",
+        "type": "u",
         "price": "15.07",
         "photos": [
           "https://i1.perfumesclub.com/mklgrande/50397071.jpg"
@@ -34239,7 +34239,7 @@
     "variants": [
       {
         "id": "21760",
-        "type": "un",
+        "type": "u",
         "price": "4.5",
         "photos": [
           "https://i1.perfumesclub.com/grande/21760.jpg"
@@ -37619,7 +37619,7 @@
     "variants": [
       {
         "id": "101457",
-        "type": "use",
+        "type": "uses",
         "price": "7.5",
         "photos": [
           "https://i1.perfumesclub.com/grande/101457.jpg",
@@ -37642,7 +37642,7 @@
     "variants": [
       {
         "id": "101458",
-        "type": "pcs",
+        "type": "u",
         "price": "4.5",
         "photos": [
           "https://i1.perfumesclub.com/grande/101458.jpg",

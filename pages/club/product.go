@@ -1,7 +1,7 @@
 package pages_club
 
 import (
-	"perfume/dao"
+	"perfume/domain/dao"
 
 	"github.com/chromedp/chromedp"
 	"github.com/sirupsen/logrus"
@@ -83,8 +83,14 @@ func (p Page) GetProductDetail(url string, tries int) {
                         let detailType = details[details.length - 1].toLowerCase();
                         // Verificar el tipo
                         switch (detailType) {
-                            case "ml": variant.type = "ML"; break;
-                            case "u": variant.type = "U"; break;
+                            case "u"    : variant.type = "U";   break;
+                            case "ml"   : variant.type = "ML";  break;
+                            case "un"   : variant.type = "U";   break;
+                            case "mm"   : variant.type = "MM";  break;
+                            case "uds"  : variant.type = "U";   break;
+                            case "pcs"  : variant.type = "U";   break;
+                            case "use"  : variant.type = "USES" break;
+                            case "uses" : variant.type = "USES" break;    
                             default: variant.type = detailType; break;
                         }
                         // Actualizar cantidad

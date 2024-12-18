@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"perfume/constants"
 	"slices"
 	"strings"
 )
@@ -35,7 +36,7 @@ func (s Service) ExportProductsToCsv() error {
 			}
 			// Atributos dinámicos
 			var attributes []string
-			if slices.Contains([]string{"ml", "u", "g"}, variant.Type) {
+			if slices.Contains(constants.GetValidProductTypes(), variant.Type) {
 				attributes = append(attributes, "Tamaño:"+variant.Quantity+variant.Type)
 			} else {
 				fmt.Println(variant.Type)

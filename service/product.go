@@ -3,7 +3,8 @@ package service
 import (
 	"fmt"
 	"html"
-	"perfume/dao"
+	"perfume/constants"
+	"perfume/domain/dao"
 	"regexp"
 	"slices"
 	"strings"
@@ -69,26 +70,26 @@ func (s *Service) ValidateProducts() {
 		if len(product.Name) == 0 {
 			fmt.Printf("El producto %d no tiene nombre\n", index)
 		} else {
-			s.products[index].Name = html.UnescapeString(product.Name)
+			s.products[index].Name = strings.TrimSpace(html.UnescapeString(product.Name))
 		}
 		// Verificar que tenga marca
 		if product.Brand == "" {
 			fmt.Printf("El producto %s no tiene marca\n", product.Name)
 		} else {
-			s.products[index].Brand = html.UnescapeString(product.Brand)
+			s.products[index].Brand = strings.TrimSpace(html.UnescapeString(product.Brand))
 		}
 		// Verificar que tenga categoria
 		if product.Category == "" {
 			fmt.Printf("El producto %s no tiene categoria\n", product.Name)
 		} else {
-			s.products[index].Category = html.UnescapeString(product.Category)
+			s.products[index].Category = strings.TrimSpace(html.UnescapeString(product.Category))
 		}
 		// Verificar que el producto tenga variantes
 		if len(product.Variants) > 0 {
 			// Iterar variantes
 			for vIndex, variant := range product.Variants {
 				// Actualizar descripcion
-				s.products[index].Variants[vIndex].Description = html.UnescapeString(variant.Description)
+				s.products[index].Variants[vIndex].Description = strings.TrimSpace(html.UnescapeString(variant.Description))
 				// Verificar que tenga precio
 				if variant.DiscountPrice == "" || variant.DiscountPrice == "0" {
 					fmt.Printf("El producto %s no tiene precio\n", product.Name)
@@ -104,10 +105,16 @@ func (s *Service) ValidateProducts() {
 				} else {
 					// Remplazar comas por puntos
 					variant.Quantity = strings.ReplaceAll(variant.Quantity, ",", ".")
+					s.products[index].Variants[vIndex].Quantity = variant.Quantity
 					// Verificar si es un dato valido
 					if !regexp.MustCompile(`^\d+(\.\d+)?$`).MatchString(variant.Quantity) {
 						fmt.Printf("El producto %s no tiene formato de cantidad incorrecto %s\n", product.Name, variant.Quantity)
 					}
+				}
+				// Verificar si existe el color
+				if variant.Color != nil {
+					s.products[index].Variants[vIndex].Color.Hex = strings.TrimSpace(variant.Color.Hex)
+					s.products[index].Variants[vIndex].Color.Name = strings.TrimSpace(variant.Color.Name)
 				}
 				// Verificar que el tipo sea valido
 				if variant.Type == "" {
@@ -116,7 +123,7 @@ func (s *Service) ValidateProducts() {
 					variant.Type = strings.ToLower(variant.Type)
 					s.products[index].Variants[vIndex].Type = variant.Type
 					// Verificar si el tipo esta dentro de los permitidos
-					if !slices.Contains([]string{"ml", "u", "g"}, variant.Type) {
+					if !slices.Contains(constants.GetValidProductTypes(), variant.Type) {
 						fmt.Printf("El producto %s tiene un tipo de medición desconocido (%s)\n", product.Name, variant.Type)
 					}
 				}

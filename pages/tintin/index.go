@@ -2,7 +2,7 @@ package pages_tintin
 
 import (
 	"fmt"
-	"perfume/dao"
+	"perfume/domain/dao"
 	"perfume/service"
 	"strings"
 

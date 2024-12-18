@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"perfume/dao"
+	"perfume/domain/dao"
 	"time"
 
 	"github.com/chromedp/chromedp"
