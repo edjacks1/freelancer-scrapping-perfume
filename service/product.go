@@ -114,7 +114,7 @@ func (s *Service) ValidateProducts() {
 				// Verificar si existe el color
 				if variant.Color != nil {
 					s.products[index].Variants[vIndex].Color.Hex = strings.TrimSpace(variant.Color.Hex)
-					s.products[index].Variants[vIndex].Color.Name = strings.TrimSpace(variant.Color.Name)
+					s.products[index].Variants[vIndex].Color.Name = strings.TrimSpace(html.UnescapeString(variant.Color.Name))
 				}
 				// Verificar que el tipo sea valido
 				if variant.Type == "" {

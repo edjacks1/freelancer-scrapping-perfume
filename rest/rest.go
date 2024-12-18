@@ -52,7 +52,7 @@ func (rest Rest) NewRequest(params dto.NewRequestParams) (*dto.RequestResponse, 
 		Data:     body,
 		Request:  *req,
 		Response: *resp,
-		OkStatus: (resp.StatusCode >= 200 && 300 < resp.StatusCode),
+		OkStatus: (resp.StatusCode >= 200 && resp.StatusCode < 300),
 	}, nil
 }
 

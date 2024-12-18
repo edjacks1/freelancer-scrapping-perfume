@@ -3,10 +3,9 @@ package woocommerce
 import (
 	"encoding/json"
 	"fmt"
+	"html"
 	"perfume/domain/dto"
 	"strings"
-
-	"github.com/sirupsen/logrus"
 )
 
 func (s Service) VerifyAttributes(attributes []dto.Attribute) {
@@ -57,7 +56,7 @@ func (s Service) VerifyAttributes(attributes []dto.Attribute) {
 		// Verificar si existe
 		if !exist {
 			// Itentando crear termino
-			s.logger.WithField("attribute", attribute).Debug(fmt.Sprintf("Creando atributo"))
+			s.logger.Debug(fmt.Sprintf("Creando atributo '%s'", attribute.Name))
 			//Hacer peticion
 			response, err := s.rest.Post(
 				dto.NewRequestParams{
@@ -73,25 +72,17 @@ func (s Service) VerifyAttributes(attributes []dto.Attribute) {
 			)
 			// Verificar si ocurrio erro
 			if err != nil {
-				s.logger.
-					WithFields(logrus.Fields{
-						"error":     err,
-						"attribute": attribute,
-					}).
-					Error(fmt.Sprintf("Ocurrio un error al crear el atributo"))
+				s.logger.WithField("error", err).Error(fmt.Sprintf("Ocurrio un error al crear el atributo '%s'", attribute.Name))
 				// Continuar con el siguiente
 				continue
 			}
 			// Verificar si fue exitoso
 			if response.OkStatus {
-				s.logger.WithField("body", string(response.Data)).Debug(fmt.Sprintf("Exito al crear atributo"))
+				s.logger.Debug(fmt.Sprintf("Exito al crear atributo '%s'", attribute.Name))
 			} else {
 				s.logger.
-					WithFields(logrus.Fields{
-						"body":      string(response.Data),
-						"attribute": attribute,
-					}).
-					Error(fmt.Sprintf("No se pudo crear el atributo"))
+					WithField("body", string(response.Data)).
+					Error(fmt.Sprintf("No se pudo crear el atributo '%s'", attribute.Name))
 			}
 		}
 	}
@@ -133,15 +124,18 @@ func (s Service) GetAttributeTerms(id int) (*[]dto.WCAttributeTerm, error) {
 func (s Service) CheckIfAttributeExistInTerms(attribute dto.Attribute, terms []dto.WCAttributeTerm) bool {
 	// Verificar el tipo del atributo
 	for _, term := range terms {
-		if attribute.Type == dto.AttributeColorType {
-			if (strings.ToLower(attribute.Name) == strings.ToLower(term.Name)) && (strings.ToLower(attribute.Value) == strings.ToLower(term.Detail.PrimaryColor)) {
-				return true
-			}
-		} else {
-			if strings.ToLower(attribute.Name) == strings.ToLower(term.Name) {
-				return true
-			}
+		if strings.ToLower(attribute.Name) == strings.ToLower(html.UnescapeString(term.Name)) {
+			return true
 		}
+		// if attribute.Type == dto.AttributeColorType {
+		// 	if (strings.ToLower(attribute.Name) == strings.ToLower(term.Name)) && (strings.ToLower(attribute.Value) == strings.ToLower(term.Detail.PrimaryColor)) {
+		// 		return true
+		// 	}
+		// } else {
+		// 	if strings.ToLower(attribute.Name) == strings.ToLower(term.Name) {
+		// 		return true
+		// 	}
+		// }
 	}
 	// Regresar bandera
 	return false

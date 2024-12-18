@@ -1,8 +1,8 @@
 package main
 
 import (
+	"fmt"
 	"perfume/service"
-	"perfume/woocommerce"
 )
 
 func main() {
@@ -13,10 +13,10 @@ func main() {
 		svc.ValidateProducts()
 		//
 		// svc.ShowAllAttributes()
-		wcService := woocommerce.InitService()
+		// wcService := woocommerce.InitService()
 		// Verificar atributos
-		wcService.VerifyAttributes(svc.GetUniqueAttributes())
+		// wcService.VerifyAttributes(svc.GetUniqueAttributes())
 		// Exportar
-		// svc.ExportProductsToCsv()
+		fmt.Println(svc.ExportProductsToCsv())
 	}
 }
